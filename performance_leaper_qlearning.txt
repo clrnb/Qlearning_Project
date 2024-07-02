@@ -1,0 +1,2999 @@
+episode  0
+Step 1, Action: 3, Reward: -0.1, Done: True
+episode  1
+Step 1, Action: 0, Reward: -0.1, Done: True
+episode  2
+Step 55, Action: 1, Reward: -0.1, Done: True
+episode  3
+epsilon:  0.99736
+Step 102, Action: 1, Reward: -1, Done: True
+episode  4
+epsilon:  0.99604
+Step 69, Action: 0, Reward: -0.1, Done: True
+episode  5
+epsilon:  0.99472
+Step 16, Action: 3, Reward: -0.1, Done: True
+episode  6
+epsilon:  0.9934
+Step 15, Action: 2, Reward: -0.1, Done: True
+episode  7
+epsilon:  0.99208
+Step 89, Action: 1, Reward: -0.1, Done: True
+episode  8
+epsilon:  0.99076
+Step 62, Action: 0, Reward: -0.1, Done: True
+episode  9
+epsilon:  0.98944
+Step 12, Action: 3, Reward: -1, Done: True
+episode  10
+epsilon:  0.98812
+Step 76, Action: 3, Reward: -0.1, Done: True
+episode  11
+epsilon:  0.9868
+Step 104, Action: 1, Reward: -0.1, Done: True
+episode  12
+epsilon:  0.98548
+Step 13, Action: 3, Reward: -0.1, Done: True
+episode  13
+epsilon:  0.98416
+Step 57, Action: 1, Reward: -0.1, Done: True
+episode  14
+epsilon:  0.98284
+Step 29, Action: 3, Reward: -0.1, Done: True
+episode  15
+epsilon:  0.98152
+Step 119, Action: 0, Reward: -0.1, Done: True
+episode  16
+epsilon:  0.9802
+Step 126, Action: 3, Reward: -0.1, Done: True
+episode  17
+epsilon:  0.97888
+Step 119, Action: 3, Reward: 10.0, Done: True
+episode  18
+epsilon:  0.97756
+Step 111, Action: 0, Reward: 10.0, Done: True
+episode  19
+epsilon:  0.97624
+Step 7, Action: 1, Reward: -0.1, Done: True
+episode  20
+epsilon:  0.97492
+Step 65, Action: 1, Reward: -0.1, Done: True
+episode  21
+epsilon:  0.9736
+Step 25, Action: 0, Reward: -0.1, Done: True
+episode  22
+epsilon:  0.97228
+Step 34, Action: 3, Reward: 10.0, Done: True
+episode  23
+epsilon:  0.97096
+Step 217, Action: 1, Reward: -0.1, Done: True
+episode  24
+epsilon:  0.9696400000000001
+Step 38, Action: 3, Reward: -0.1, Done: True
+episode  25
+epsilon:  0.96832
+Step 80, Action: 3, Reward: -0.1, Done: True
+episode  26
+epsilon:  0.967
+Step 49, Action: 1, Reward: -0.1, Done: True
+episode  27
+epsilon:  0.96568
+Step 6, Action: 0, Reward: -1, Done: True
+episode  28
+epsilon:  0.96436
+Step 50, Action: 0, Reward: -1, Done: True
+episode  29
+epsilon:  0.96304
+Step 49, Action: 0, Reward: -0.1, Done: True
+episode  30
+epsilon:  0.96172
+Step 19, Action: 3, Reward: 10.0, Done: True
+episode  31
+epsilon:  0.9604
+Step 132, Action: 2, Reward: -0.1, Done: True
+episode  32
+epsilon:  0.95908
+Step 48, Action: 3, Reward: -1, Done: True
+episode  33
+epsilon:  0.95776
+Step 62, Action: 0, Reward: -1, Done: True
+episode  34
+epsilon:  0.95644
+Step 47, Action: 1, Reward: -0.1, Done: True
+episode  35
+epsilon:  0.95512
+Step 164, Action: 1, Reward: -0.1, Done: True
+episode  36
+epsilon:  0.9538
+Step 55, Action: 2, Reward: -1, Done: True
+episode  37
+epsilon:  0.95248
+Step 98, Action: 0, Reward: -1, Done: True
+episode  38
+epsilon:  0.95116
+Step 4, Action: 0, Reward: -0.1, Done: True
+episode  39
+epsilon:  0.94984
+Step 17, Action: 3, Reward: 10.0, Done: True
+episode  40
+epsilon:  0.94852
+Step 29, Action: 2, Reward: -0.1, Done: True
+episode  41
+epsilon:  0.9472
+Step 80, Action: 1, Reward: 10.0, Done: True
+episode  42
+epsilon:  0.94588
+Step 64, Action: 2, Reward: 10.0, Done: True
+episode  43
+epsilon:  0.94456
+Step 30, Action: 2, Reward: 10.0, Done: True
+episode  44
+epsilon:  0.94324
+Step 19, Action: 1, Reward: -0.1, Done: True
+episode  45
+epsilon:  0.94192
+Step 144, Action: 0, Reward: 10.0, Done: True
+episode  46
+epsilon:  0.9406
+Step 58, Action: 3, Reward: 10.0, Done: True
+episode  47
+epsilon:  0.93928
+Step 112, Action: 3, Reward: 10.0, Done: True
+episode  48
+epsilon:  0.93796
+Step 8, Action: 1, Reward: -0.1, Done: True
+episode  49
+epsilon:  0.93664
+Step 13, Action: 3, Reward: -0.1, Done: True
+episode  50
+epsilon:  0.93532
+Step 70, Action: 1, Reward: -0.1, Done: True
+episode  51
+epsilon:  0.9339999999999999
+Step 110, Action: 3, Reward: -0.1, Done: True
+episode  52
+epsilon:  0.93268
+Step 38, Action: 0, Reward: -0.1, Done: True
+episode  53
+epsilon:  0.93136
+Step 17, Action: 2, Reward: 10.0, Done: True
+episode  54
+epsilon:  0.93004
+Step 53, Action: 1, Reward: 10.0, Done: True
+episode  55
+epsilon:  0.92872
+Step 1, Action: 0, Reward: -0.1, Done: True
+episode  56
+epsilon:  0.9274
+Step 455, Action: 2, Reward: -0.1, Done: True
+episode  57
+epsilon:  0.92608
+Step 43, Action: 1, Reward: -0.1, Done: True
+episode  58
+epsilon:  0.92476
+Step 20, Action: 1, Reward: -0.1, Done: True
+episode  59
+epsilon:  0.92344
+Step 168, Action: 2, Reward: 10.0, Done: True
+episode  60
+epsilon:  0.92212
+Step 17, Action: 3, Reward: -0.1, Done: True
+episode  61
+epsilon:  0.9208000000000001
+Step 100, Action: 1, Reward: -1, Done: True
+episode  62
+epsilon:  0.91948
+Step 13, Action: 2, Reward: -1, Done: True
+episode  63
+epsilon:  0.91816
+Step 7, Action: 2, Reward: -0.1, Done: True
+episode  64
+epsilon:  0.91684
+Step 68, Action: 3, Reward: -1, Done: True
+episode  65
+epsilon:  0.91552
+Step 38, Action: 2, Reward: -1, Done: True
+episode  66
+epsilon:  0.9142
+Step 124, Action: 1, Reward: 10.0, Done: True
+episode  67
+epsilon:  0.91288
+Step 25, Action: 3, Reward: 10.0, Done: True
+episode  68
+epsilon:  0.91156
+Step 64, Action: 0, Reward: -0.1, Done: True
+episode  69
+epsilon:  0.9102399999999999
+Step 48, Action: 3, Reward: -0.1, Done: True
+episode  70
+epsilon:  0.90892
+Step 84, Action: 0, Reward: -0.1, Done: True
+episode  71
+epsilon:  0.9076
+Step 90, Action: 1, Reward: -0.1, Done: True
+episode  72
+epsilon:  0.90628
+Step 60, Action: 0, Reward: 10.0, Done: True
+episode  73
+epsilon:  0.90496
+Step 43, Action: 1, Reward: -0.1, Done: True
+episode  74
+epsilon:  0.90364
+Step 68, Action: 3, Reward: -1, Done: True
+episode  75
+epsilon:  0.90232
+Step 42, Action: 0, Reward: 10.0, Done: True
+episode  76
+epsilon:  0.901
+Step 79, Action: 0, Reward: -0.1, Done: True
+episode  77
+epsilon:  0.89968
+Step 27, Action: 0, Reward: -0.1, Done: True
+episode  78
+epsilon:  0.89836
+Step 50, Action: 0, Reward: -1, Done: True
+episode  79
+epsilon:  0.8970400000000001
+Step 75, Action: 1, Reward: 10.0, Done: True
+episode  80
+epsilon:  0.89572
+Step 1, Action: 2, Reward: -1, Done: True
+episode  81
+epsilon:  0.8944
+Step 41, Action: 2, Reward: 10.0, Done: True
+episode  82
+epsilon:  0.89308
+Step 45, Action: 3, Reward: 10.0, Done: True
+episode  83
+epsilon:  0.89176
+Step 27, Action: 3, Reward: -0.1, Done: True
+episode  84
+epsilon:  0.89044
+Step 11, Action: 1, Reward: 10.0, Done: True
+episode  85
+epsilon:  0.88912
+Step 1, Action: 3, Reward: -0.1, Done: True
+episode  86
+epsilon:  0.8878
+Step 53, Action: 3, Reward: -1, Done: True
+episode  87
+epsilon:  0.88648
+Step 9, Action: 3, Reward: -0.1, Done: True
+episode  88
+epsilon:  0.88516
+Step 13, Action: 3, Reward: -0.1, Done: True
+episode  89
+epsilon:  0.88384
+Step 117, Action: 0, Reward: 10.0, Done: True
+episode  90
+epsilon:  0.88252
+Step 13, Action: 0, Reward: -0.1, Done: True
+episode  91
+epsilon:  0.8812
+Step 8, Action: 0, Reward: -0.1, Done: True
+episode  92
+epsilon:  0.87988
+Step 19, Action: 2, Reward: -1, Done: True
+episode  93
+epsilon:  0.87856
+Step 151, Action: 1, Reward: 10.0, Done: True
+episode  94
+epsilon:  0.87724
+Step 382, Action: 0, Reward: -0.1, Done: True
+episode  95
+epsilon:  0.87592
+Step 32, Action: 3, Reward: -0.1, Done: True
+episode  96
+epsilon:  0.8746
+Step 23, Action: 1, Reward: 10.0, Done: True
+episode  97
+epsilon:  0.8732800000000001
+Step 92, Action: 3, Reward: 10.0, Done: True
+episode  98
+epsilon:  0.8719600000000001
+Step 7, Action: 0, Reward: -0.1, Done: True
+episode  99
+epsilon:  0.87064
+Step 12, Action: 3, Reward: 10.0, Done: True
+episode  100
+epsilon:  0.86932
+Step 40, Action: 1, Reward: -0.1, Done: True
+episode  101
+epsilon:  0.868
+Step 21, Action: 2, Reward: -1, Done: True
+episode  102
+epsilon:  0.86668
+Step 126, Action: 0, Reward: -0.1, Done: True
+episode  103
+epsilon:  0.86536
+Step 35, Action: 1, Reward: -0.1, Done: True
+episode  104
+epsilon:  0.86404
+Step 26, Action: 1, Reward: -0.1, Done: True
+episode  105
+epsilon:  0.8627199999999999
+Step 3, Action: 3, Reward: -0.1, Done: True
+episode  106
+epsilon:  0.8613999999999999
+Step 49, Action: 2, Reward: -1, Done: True
+episode  107
+epsilon:  0.86008
+Step 14, Action: 3, Reward: 10.0, Done: True
+episode  108
+epsilon:  0.85876
+Step 17, Action: 1, Reward: 10.0, Done: True
+episode  109
+epsilon:  0.85744
+Step 57, Action: 1, Reward: -1, Done: True
+episode  110
+epsilon:  0.85612
+Step 6, Action: 3, Reward: -0.1, Done: True
+episode  111
+epsilon:  0.8548
+Step 89, Action: 3, Reward: 10.0, Done: True
+episode  112
+epsilon:  0.85348
+Step 132, Action: 2, Reward: 10.0, Done: True
+episode  113
+epsilon:  0.85216
+Step 38, Action: 1, Reward: -0.1, Done: True
+episode  114
+epsilon:  0.85084
+Step 7, Action: 2, Reward: -1, Done: True
+episode  115
+epsilon:  0.84952
+Step 92, Action: 2, Reward: -0.1, Done: True
+episode  116
+epsilon:  0.8482000000000001
+Step 130, Action: 2, Reward: 10.0, Done: True
+episode  117
+epsilon:  0.84688
+Step 18, Action: 1, Reward: 10.0, Done: True
+episode  118
+epsilon:  0.84556
+Step 17, Action: 3, Reward: 10.0, Done: True
+episode  119
+epsilon:  0.84424
+Step 17, Action: 0, Reward: 10.0, Done: True
+episode  120
+epsilon:  0.84292
+Step 80, Action: 3, Reward: -0.1, Done: True
+episode  121
+epsilon:  0.8416
+Step 7, Action: 0, Reward: -0.1, Done: True
+episode  122
+epsilon:  0.84028
+Step 2, Action: 1, Reward: -0.1, Done: True
+episode  123
+epsilon:  0.83896
+Step 14, Action: 2, Reward: -0.1, Done: True
+episode  124
+epsilon:  0.8376399999999999
+Step 86, Action: 1, Reward: 10.0, Done: True
+episode  125
+epsilon:  0.83632
+Step 19, Action: 1, Reward: -0.1, Done: True
+episode  126
+epsilon:  0.835
+Step 19, Action: 3, Reward: -1, Done: True
+episode  127
+epsilon:  0.83368
+Step 1, Action: 0, Reward: -0.1, Done: True
+episode  128
+epsilon:  0.83236
+Step 18, Action: 2, Reward: -1, Done: True
+episode  129
+epsilon:  0.83104
+Step 89, Action: 3, Reward: -0.1, Done: True
+episode  130
+epsilon:  0.82972
+Step 28, Action: 1, Reward: 10.0, Done: True
+episode  131
+epsilon:  0.8284
+Step 117, Action: 3, Reward: 10.0, Done: True
+episode  132
+epsilon:  0.82708
+Step 38, Action: 0, Reward: -1, Done: True
+episode  133
+epsilon:  0.82576
+Step 20, Action: 0, Reward: -0.1, Done: True
+episode  134
+epsilon:  0.8244400000000001
+Step 49, Action: 3, Reward: -0.1, Done: True
+episode  135
+epsilon:  0.82312
+Step 30, Action: 0, Reward: -0.1, Done: True
+episode  136
+epsilon:  0.8218
+Step 26, Action: 3, Reward: -0.1, Done: True
+episode  137
+epsilon:  0.82048
+Step 17, Action: 0, Reward: 10.0, Done: True
+episode  138
+epsilon:  0.81916
+Step 63, Action: 0, Reward: 10.0, Done: True
+episode  139
+epsilon:  0.81784
+Step 33, Action: 2, Reward: -1, Done: True
+episode  140
+epsilon:  0.81652
+Step 29, Action: 3, Reward: 10.0, Done: True
+episode  141
+epsilon:  0.8152
+Step 9, Action: 1, Reward: -0.1, Done: True
+episode  142
+epsilon:  0.8138799999999999
+Step 1, Action: 1, Reward: -0.1, Done: True
+episode  143
+epsilon:  0.81256
+Step 10, Action: 3, Reward: -0.1, Done: True
+episode  144
+epsilon:  0.81124
+Step 1, Action: 1, Reward: -0.1, Done: True
+episode  145
+epsilon:  0.80992
+Step 90, Action: 0, Reward: -0.1, Done: True
+episode  146
+epsilon:  0.8086
+Step 12, Action: 1, Reward: 10.0, Done: True
+episode  147
+epsilon:  0.80728
+Step 13, Action: 2, Reward: -1, Done: True
+episode  148
+epsilon:  0.80596
+Step 17, Action: 1, Reward: 10.0, Done: True
+episode  149
+epsilon:  0.80464
+Step 20, Action: 0, Reward: 10.0, Done: True
+episode  150
+epsilon:  0.80332
+Step 18, Action: 3, Reward: -0.1, Done: True
+episode  151
+epsilon:  0.802
+Step 73, Action: 2, Reward: 10.0, Done: True
+episode  152
+epsilon:  0.8006800000000001
+Step 25, Action: 1, Reward: -0.1, Done: True
+episode  153
+epsilon:  0.7993600000000001
+Step 23, Action: 1, Reward: -1, Done: True
+episode  154
+epsilon:  0.79804
+Step 94, Action: 1, Reward: 10.0, Done: True
+episode  155
+epsilon:  0.79672
+Step 7, Action: 0, Reward: -0.1, Done: True
+episode  156
+epsilon:  0.7954
+Step 87, Action: 0, Reward: -1, Done: True
+episode  157
+epsilon:  0.79408
+Step 123, Action: 0, Reward: 10.0, Done: True
+episode  158
+epsilon:  0.79276
+Step 46, Action: 1, Reward: -0.1, Done: True
+episode  159
+epsilon:  0.79144
+Step 43, Action: 3, Reward: -0.1, Done: True
+episode  160
+epsilon:  0.7901199999999999
+Step 41, Action: 3, Reward: -0.1, Done: True
+episode  161
+epsilon:  0.7888
+Step 2, Action: 2, Reward: -1, Done: True
+episode  162
+epsilon:  0.78748
+Step 39, Action: 2, Reward: -1, Done: True
+episode  163
+epsilon:  0.78616
+Step 14, Action: 1, Reward: -0.1, Done: True
+episode  164
+epsilon:  0.78484
+Step 45, Action: 0, Reward: -0.1, Done: True
+episode  165
+epsilon:  0.78352
+Step 55, Action: 1, Reward: -0.1, Done: True
+episode  166
+epsilon:  0.7822
+Step 150, Action: 1, Reward: -0.1, Done: True
+episode  167
+epsilon:  0.78088
+Step 42, Action: 1, Reward: -0.1, Done: True
+episode  168
+epsilon:  0.77956
+Step 116, Action: 3, Reward: -0.1, Done: True
+episode  169
+epsilon:  0.77824
+Step 26, Action: 0, Reward: -0.1, Done: True
+episode  170
+epsilon:  0.77692
+Step 1, Action: 0, Reward: -0.1, Done: True
+episode  171
+epsilon:  0.7756000000000001
+Step 14, Action: 2, Reward: -1, Done: True
+episode  172
+epsilon:  0.77428
+Step 106, Action: 0, Reward: -0.1, Done: True
+episode  173
+epsilon:  0.77296
+Step 106, Action: 1, Reward: 10.0, Done: True
+episode  174
+epsilon:  0.77164
+Step 43, Action: 0, Reward: -0.1, Done: True
+episode  175
+epsilon:  0.77032
+Step 57, Action: 0, Reward: -0.1, Done: True
+episode  176
+epsilon:  0.769
+Step 13, Action: 2, Reward: -1, Done: True
+episode  177
+epsilon:  0.76768
+Step 199, Action: 0, Reward: 10.0, Done: True
+episode  178
+epsilon:  0.76636
+Step 36, Action: 0, Reward: -0.1, Done: True
+episode  179
+epsilon:  0.7650399999999999
+Step 88, Action: 1, Reward: -0.1, Done: True
+episode  180
+epsilon:  0.76372
+Step 35, Action: 0, Reward: 10.0, Done: True
+episode  181
+epsilon:  0.7624
+Step 118, Action: 1, Reward: -0.1, Done: True
+episode  182
+epsilon:  0.76108
+Step 31, Action: 0, Reward: 10.0, Done: True
+episode  183
+epsilon:  0.75976
+Step 67, Action: 3, Reward: -0.1, Done: True
+episode  184
+epsilon:  0.75844
+Step 123, Action: 3, Reward: -0.1, Done: True
+episode  185
+epsilon:  0.75712
+Step 15, Action: 1, Reward: 10.0, Done: True
+episode  186
+epsilon:  0.7558
+Step 101, Action: 1, Reward: 10.0, Done: True
+episode  187
+epsilon:  0.75448
+Step 91, Action: 2, Reward: -1, Done: True
+episode  188
+epsilon:  0.75316
+Step 93, Action: 1, Reward: 10.0, Done: True
+episode  189
+epsilon:  0.7518400000000001
+Step 98, Action: 2, Reward: -0.1, Done: True
+episode  190
+epsilon:  0.75052
+Step 79, Action: 2, Reward: -0.1, Done: True
+episode  191
+epsilon:  0.7492
+Step 1, Action: 1, Reward: -0.1, Done: True
+episode  192
+epsilon:  0.74788
+Step 39, Action: 2, Reward: -0.1, Done: True
+episode  193
+epsilon:  0.74656
+Step 105, Action: 0, Reward: -0.1, Done: True
+episode  194
+epsilon:  0.74524
+Step 11, Action: 3, Reward: 10.0, Done: True
+episode  195
+epsilon:  0.74392
+Step 62, Action: 2, Reward: -1, Done: True
+episode  196
+epsilon:  0.7425999999999999
+Step 11, Action: 1, Reward: 10.0, Done: True
+episode  197
+epsilon:  0.7412799999999999
+Step 34, Action: 3, Reward: -0.1, Done: True
+episode  198
+epsilon:  0.73996
+Step 25, Action: 3, Reward: -0.1, Done: True
+episode  199
+epsilon:  0.73864
+Step 113, Action: 3, Reward: -0.1, Done: True
+episode  200
+epsilon:  0.73732
+Step 4, Action: 2, Reward: -1, Done: True
+episode  201
+epsilon:  0.736
+Step 2, Action: 0, Reward: -0.1, Done: True
+episode  202
+epsilon:  0.73468
+Step 14, Action: 0, Reward: -0.1, Done: True
+episode  203
+epsilon:  0.73336
+Step 78, Action: 1, Reward: -0.1, Done: True
+episode  204
+epsilon:  0.73204
+Step 113, Action: 3, Reward: -0.1, Done: True
+episode  205
+epsilon:  0.73072
+Step 61, Action: 0, Reward: -0.1, Done: True
+episode  206
+epsilon:  0.7294
+Step 4, Action: 2, Reward: -0.1, Done: True
+episode  207
+epsilon:  0.7280800000000001
+Step 181, Action: 2, Reward: 10.0, Done: True
+episode  208
+epsilon:  0.7267600000000001
+Step 82, Action: 2, Reward: -1, Done: True
+episode  209
+epsilon:  0.72544
+Step 31, Action: 0, Reward: 10.0, Done: True
+episode  210
+epsilon:  0.72412
+Step 9, Action: 3, Reward: -0.1, Done: True
+episode  211
+epsilon:  0.7228
+Step 2, Action: 1, Reward: -0.1, Done: True
+episode  212
+epsilon:  0.72148
+Step 13, Action: 0, Reward: -0.1, Done: True
+episode  213
+epsilon:  0.72016
+Step 146, Action: 1, Reward: -1, Done: True
+episode  214
+epsilon:  0.7188399999999999
+Step 24, Action: 0, Reward: 10.0, Done: True
+episode  215
+epsilon:  0.7175199999999999
+Step 21, Action: 0, Reward: -0.1, Done: True
+episode  216
+epsilon:  0.7162
+Step 18, Action: 0, Reward: -0.1, Done: True
+episode  217
+epsilon:  0.71488
+Step 40, Action: 1, Reward: -0.1, Done: True
+episode  218
+epsilon:  0.71356
+Step 42, Action: 3, Reward: -0.1, Done: True
+episode  219
+epsilon:  0.71224
+Step 143, Action: 1, Reward: -0.1, Done: True
+episode  220
+epsilon:  0.71092
+Step 121, Action: 0, Reward: -1, Done: True
+episode  221
+epsilon:  0.7096
+Step 18, Action: 3, Reward: -0.1, Done: True
+episode  222
+epsilon:  0.70828
+Step 206, Action: 3, Reward: 10.0, Done: True
+episode  223
+epsilon:  0.70696
+Step 186, Action: 0, Reward: -0.1, Done: True
+episode  224
+epsilon:  0.70564
+Step 70, Action: 3, Reward: 10.0, Done: True
+episode  225
+epsilon:  0.7043200000000001
+Step 68, Action: 0, Reward: -0.1, Done: True
+episode  226
+epsilon:  0.7030000000000001
+Step 13, Action: 1, Reward: -0.1, Done: True
+episode  227
+epsilon:  0.7016800000000001
+Step 105, Action: 1, Reward: -0.1, Done: True
+episode  228
+epsilon:  0.70036
+Step 25, Action: 2, Reward: -1, Done: True
+episode  229
+epsilon:  0.69904
+Step 164, Action: 1, Reward: -0.1, Done: True
+episode  230
+epsilon:  0.69772
+Step 25, Action: 0, Reward: -0.1, Done: True
+episode  231
+epsilon:  0.6964
+Step 30, Action: 3, Reward: 10.0, Done: True
+episode  232
+epsilon:  0.6950799999999999
+Step 29, Action: 1, Reward: 10.0, Done: True
+episode  233
+epsilon:  0.6937599999999999
+Step 25, Action: 3, Reward: -0.1, Done: True
+episode  234
+epsilon:  0.6924399999999999
+Step 42, Action: 0, Reward: 10.0, Done: True
+episode  235
+epsilon:  0.69112
+Step 8, Action: 1, Reward: -0.1, Done: True
+episode  236
+epsilon:  0.6898
+Step 80, Action: 1, Reward: -0.1, Done: True
+episode  237
+epsilon:  0.68848
+Step 161, Action: 3, Reward: 10.0, Done: True
+episode  238
+epsilon:  0.68716
+Step 199, Action: 1, Reward: -0.1, Done: True
+episode  239
+epsilon:  0.68584
+Step 14, Action: 1, Reward: -0.1, Done: True
+episode  240
+epsilon:  0.68452
+Step 499, Action: 2, Reward: -1, Done: True
+episode  241
+epsilon:  0.6832
+Step 88, Action: 3, Reward: -1, Done: True
+episode  242
+epsilon:  0.68188
+Step 225, Action: 0, Reward: -0.1, Done: True
+episode  243
+epsilon:  0.68056
+Step 92, Action: 3, Reward: -1, Done: True
+episode  244
+epsilon:  0.6792400000000001
+Step 7, Action: 0, Reward: -0.1, Done: True
+episode  245
+epsilon:  0.6779200000000001
+Step 30, Action: 0, Reward: -0.1, Done: True
+episode  246
+epsilon:  0.6766
+Step 126, Action: 1, Reward: -0.1, Done: True
+episode  247
+epsilon:  0.67528
+Step 31, Action: 0, Reward: -0.1, Done: True
+episode  248
+epsilon:  0.67396
+Step 299, Action: 2, Reward: -0.1, Done: True
+episode  249
+epsilon:  0.67264
+Step 109, Action: 2, Reward: 10.0, Done: True
+episode  250
+epsilon:  0.67132
+Step 20, Action: 3, Reward: -0.1, Done: True
+episode  251
+epsilon:  0.6699999999999999
+Step 1, Action: 3, Reward: -0.1, Done: True
+episode  252
+epsilon:  0.6686799999999999
+Step 23, Action: 3, Reward: 10.0, Done: True
+episode  253
+epsilon:  0.66736
+Step 251, Action: 2, Reward: 10.0, Done: True
+episode  254
+epsilon:  0.66604
+Step 15, Action: 1, Reward: -0.1, Done: True
+episode  255
+epsilon:  0.66472
+Step 81, Action: 0, Reward: -0.1, Done: True
+episode  256
+epsilon:  0.6634
+Step 111, Action: 1, Reward: -0.1, Done: True
+episode  257
+epsilon:  0.66208
+Step 45, Action: 3, Reward: -0.1, Done: True
+episode  258
+epsilon:  0.66076
+Step 50, Action: 3, Reward: -0.1, Done: True
+episode  259
+epsilon:  0.65944
+Step 47, Action: 1, Reward: -0.1, Done: True
+episode  260
+epsilon:  0.65812
+Step 92, Action: 1, Reward: -0.1, Done: True
+episode  261
+epsilon:  0.6568
+Step 41, Action: 0, Reward: 10.0, Done: True
+episode  262
+epsilon:  0.6554800000000001
+Step 25, Action: 0, Reward: -0.1, Done: True
+episode  263
+epsilon:  0.6541600000000001
+Step 14, Action: 0, Reward: -0.1, Done: True
+episode  264
+epsilon:  0.65284
+Step 110, Action: 1, Reward: -1, Done: True
+episode  265
+epsilon:  0.65152
+Step 13, Action: 2, Reward: -1, Done: True
+episode  266
+epsilon:  0.6502
+Step 116, Action: 3, Reward: -0.1, Done: True
+episode  267
+epsilon:  0.64888
+Step 217, Action: 3, Reward: -0.1, Done: True
+episode  268
+epsilon:  0.64756
+Step 26, Action: 3, Reward: -0.1, Done: True
+episode  269
+epsilon:  0.6462399999999999
+Step 108, Action: 1, Reward: -0.1, Done: True
+episode  270
+epsilon:  0.6449199999999999
+Step 54, Action: 1, Reward: 10.0, Done: True
+episode  271
+epsilon:  0.6436
+Step 26, Action: 3, Reward: -0.1, Done: True
+episode  272
+epsilon:  0.64228
+Step 13, Action: 1, Reward: -0.1, Done: True
+episode  273
+epsilon:  0.64096
+Step 72, Action: 0, Reward: 10.0, Done: True
+episode  274
+epsilon:  0.63964
+Step 126, Action: 0, Reward: -0.1, Done: True
+episode  275
+epsilon:  0.63832
+Step 352, Action: 3, Reward: -0.1, Done: True
+episode  276
+epsilon:  0.637
+Step 61, Action: 0, Reward: -0.1, Done: True
+episode  277
+epsilon:  0.63568
+Step 231, Action: 2, Reward: -1, Done: True
+episode  278
+epsilon:  0.63436
+Step 382, Action: 1, Reward: -0.1, Done: True
+episode  279
+epsilon:  0.63304
+Step 75, Action: 3, Reward: -0.1, Done: True
+episode  280
+epsilon:  0.6317200000000001
+Step 166, Action: 0, Reward: -1, Done: True
+episode  281
+epsilon:  0.6304000000000001
+Step 177, Action: 1, Reward: -0.1, Done: True
+episode  282
+epsilon:  0.6290800000000001
+Step 151, Action: 1, Reward: -1, Done: True
+episode  283
+epsilon:  0.62776
+Step 167, Action: 1, Reward: -0.1, Done: True
+episode  284
+epsilon:  0.62644
+Step 145, Action: 1, Reward: -0.1, Done: True
+episode  285
+epsilon:  0.62512
+Step 264, Action: 3, Reward: 10.0, Done: True
+episode  286
+epsilon:  0.6238
+Step 7, Action: 1, Reward: -0.1, Done: True
+episode  287
+epsilon:  0.6224799999999999
+Step 123, Action: 1, Reward: -0.1, Done: True
+episode  288
+epsilon:  0.6211599999999999
+Step 67, Action: 3, Reward: 10.0, Done: True
+episode  289
+epsilon:  0.61984
+Step 166, Action: 2, Reward: -1, Done: True
+episode  290
+epsilon:  0.61852
+Step 1, Action: 0, Reward: -0.1, Done: True
+episode  291
+epsilon:  0.6172
+Step 209, Action: 3, Reward: 10.0, Done: True
+episode  292
+epsilon:  0.61588
+Step 127, Action: 1, Reward: 10.0, Done: True
+episode  293
+epsilon:  0.61456
+Step 1, Action: 1, Reward: -0.1, Done: True
+episode  294
+epsilon:  0.61324
+Step 18, Action: 3, Reward: -1, Done: True
+episode  295
+epsilon:  0.61192
+Step 51, Action: 1, Reward: 10.0, Done: True
+episode  296
+epsilon:  0.6106
+Step 180, Action: 1, Reward: -0.1, Done: True
+episode  297
+epsilon:  0.60928
+Step 86, Action: 1, Reward: -0.1, Done: True
+episode  298
+epsilon:  0.6079600000000001
+Step 7, Action: 1, Reward: -0.1, Done: True
+episode  299
+epsilon:  0.6066400000000001
+Step 50, Action: 1, Reward: -0.1, Done: True
+episode  300
+epsilon:  0.6053200000000001
+Step 354, Action: 2, Reward: -0.1, Done: True
+episode  301
+epsilon:  0.604
+Step 499, Action: 1, Reward: -0.1, Done: True
+episode  302
+epsilon:  0.60268
+Step 170, Action: 3, Reward: -0.1, Done: True
+episode  303
+epsilon:  0.60136
+Step 43, Action: 1, Reward: -0.1, Done: True
+episode  304
+epsilon:  0.60004
+Step 75, Action: 3, Reward: -0.1, Done: True
+episode  305
+epsilon:  0.59872
+Step 43, Action: 0, Reward: -0.1, Done: True
+episode  306
+epsilon:  0.5973999999999999
+Step 201, Action: 1, Reward: -0.1, Done: True
+episode  307
+epsilon:  0.5960799999999999
+Step 249, Action: 3, Reward: -0.1, Done: True
+episode  308
+epsilon:  0.59476
+Step 343, Action: 0, Reward: -0.1, Done: True
+episode  309
+epsilon:  0.59344
+Step 190, Action: 0, Reward: 10.0, Done: True
+episode  310
+epsilon:  0.59212
+Step 43, Action: 2, Reward: -1, Done: True
+episode  311
+epsilon:  0.5908
+Step 183, Action: 1, Reward: -1, Done: True
+episode  312
+epsilon:  0.58948
+Step 109, Action: 3, Reward: -0.1, Done: True
+episode  313
+epsilon:  0.58816
+Step 95, Action: 0, Reward: -0.1, Done: True
+episode  314
+epsilon:  0.58684
+Step 109, Action: 2, Reward: -1, Done: True
+episode  315
+epsilon:  0.58552
+Step 1, Action: 3, Reward: -0.1, Done: True
+episode  316
+epsilon:  0.5842
+Step 61, Action: 0, Reward: -1, Done: True
+episode  317
+epsilon:  0.5828800000000001
+Step 204, Action: 2, Reward: 10.0, Done: True
+episode  318
+epsilon:  0.5815600000000001
+Step 118, Action: 1, Reward: -0.1, Done: True
+episode  319
+epsilon:  0.58024
+Step 7, Action: 0, Reward: -0.1, Done: True
+episode  320
+epsilon:  0.57892
+Step 333, Action: 3, Reward: -0.1, Done: True
+episode  321
+epsilon:  0.5776
+Step 79, Action: 0, Reward: -1, Done: True
+episode  322
+epsilon:  0.57628
+Step 28, Action: 3, Reward: -0.1, Done: True
+episode  323
+epsilon:  0.57496
+Step 36, Action: 1, Reward: -1, Done: True
+episode  324
+epsilon:  0.5736399999999999
+Step 2, Action: 2, Reward: -1, Done: True
+episode  325
+epsilon:  0.5723199999999999
+Step 19, Action: 1, Reward: -0.1, Done: True
+episode  326
+epsilon:  0.571
+Step 151, Action: 2, Reward: 10.0, Done: True
+episode  327
+epsilon:  0.56968
+Step 127, Action: 3, Reward: -1, Done: True
+episode  328
+epsilon:  0.56836
+Step 114, Action: 2, Reward: 10.0, Done: True
+episode  329
+epsilon:  0.56704
+Step 134, Action: 1, Reward: -0.1, Done: True
+episode  330
+epsilon:  0.56572
+Step 197, Action: 3, Reward: 10.0, Done: True
+episode  331
+epsilon:  0.5644
+Step 153, Action: 1, Reward: 10.0, Done: True
+episode  332
+epsilon:  0.56308
+Step 407, Action: 2, Reward: -1, Done: True
+episode  333
+epsilon:  0.56176
+Step 38, Action: 1, Reward: -0.1, Done: True
+episode  334
+epsilon:  0.56044
+Step 166, Action: 3, Reward: -0.1, Done: True
+episode  335
+epsilon:  0.5591200000000001
+Step 57, Action: 3, Reward: -0.1, Done: True
+episode  336
+epsilon:  0.5578000000000001
+Step 326, Action: 1, Reward: -1, Done: True
+episode  337
+epsilon:  0.55648
+Step 73, Action: 2, Reward: -1, Done: True
+episode  338
+epsilon:  0.55516
+Step 90, Action: 0, Reward: -0.1, Done: True
+episode  339
+epsilon:  0.55384
+Step 499, Action: 1, Reward: -0.1, Done: True
+episode  340
+epsilon:  0.55252
+Step 23, Action: 0, Reward: -0.1, Done: True
+episode  341
+epsilon:  0.5512
+Step 120, Action: 2, Reward: -1, Done: True
+episode  342
+epsilon:  0.5498799999999999
+Step 69, Action: 0, Reward: 10.0, Done: True
+episode  343
+epsilon:  0.5485599999999999
+Step 28, Action: 1, Reward: 10.0, Done: True
+episode  344
+epsilon:  0.54724
+Step 123, Action: 1, Reward: -1, Done: True
+episode  345
+epsilon:  0.54592
+Step 14, Action: 1, Reward: -0.1, Done: True
+episode  346
+epsilon:  0.5446
+Step 20, Action: 1, Reward: -0.1, Done: True
+episode  347
+epsilon:  0.54328
+Step 121, Action: 2, Reward: -1, Done: True
+episode  348
+epsilon:  0.54196
+Step 41, Action: 2, Reward: 10.0, Done: True
+episode  349
+epsilon:  0.54064
+Step 63, Action: 0, Reward: -0.1, Done: True
+episode  350
+epsilon:  0.53932
+Step 108, Action: 2, Reward: 10.0, Done: True
+episode  351
+epsilon:  0.538
+Step 77, Action: 2, Reward: 10.0, Done: True
+episode  352
+epsilon:  0.53668
+Step 49, Action: 1, Reward: -0.1, Done: True
+episode  353
+epsilon:  0.5353600000000001
+Step 439, Action: 0, Reward: -0.1, Done: True
+episode  354
+epsilon:  0.5340400000000001
+Step 71, Action: 0, Reward: -0.1, Done: True
+episode  355
+epsilon:  0.5327200000000001
+Step 45, Action: 1, Reward: 10.0, Done: True
+episode  356
+epsilon:  0.5314
+Step 90, Action: 0, Reward: -0.1, Done: True
+episode  357
+epsilon:  0.53008
+Step 30, Action: 2, Reward: 10.0, Done: True
+episode  358
+epsilon:  0.52876
+Step 13, Action: 2, Reward: -1, Done: True
+episode  359
+epsilon:  0.52744
+Step 117, Action: 3, Reward: -0.1, Done: True
+episode  360
+epsilon:  0.5261199999999999
+Step 25, Action: 1, Reward: -0.1, Done: True
+episode  361
+epsilon:  0.5247999999999999
+Step 7, Action: 2, Reward: -0.1, Done: True
+episode  362
+epsilon:  0.52348
+Step 201, Action: 0, Reward: -0.1, Done: True
+episode  363
+epsilon:  0.52216
+Step 7, Action: 3, Reward: -0.1, Done: True
+episode  364
+epsilon:  0.52084
+Step 9, Action: 2, Reward: -1, Done: True
+episode  365
+epsilon:  0.51952
+Step 166, Action: 1, Reward: 10.0, Done: True
+episode  366
+epsilon:  0.5182
+Step 9, Action: 0, Reward: -0.1, Done: True
+episode  367
+epsilon:  0.51688
+Step 157, Action: 1, Reward: -0.1, Done: True
+episode  368
+epsilon:  0.51556
+Step 70, Action: 2, Reward: -1, Done: True
+episode  369
+epsilon:  0.51424
+Step 106, Action: 3, Reward: -0.1, Done: True
+episode  370
+epsilon:  0.51292
+Step 25, Action: 3, Reward: -0.1, Done: True
+episode  371
+epsilon:  0.5116
+Step 101, Action: 0, Reward: -0.1, Done: True
+episode  372
+epsilon:  0.5102800000000001
+Step 38, Action: 2, Reward: -1, Done: True
+episode  373
+epsilon:  0.5089600000000001
+Step 85, Action: 2, Reward: 10.0, Done: True
+episode  374
+epsilon:  0.50764
+Step 40, Action: 0, Reward: -1, Done: True
+episode  375
+epsilon:  0.50632
+Step 71, Action: 3, Reward: -0.1, Done: True
+episode  376
+epsilon:  0.505
+Step 92, Action: 3, Reward: -0.1, Done: True
+episode  377
+epsilon:  0.50368
+Step 16, Action: 3, Reward: -0.1, Done: True
+episode  378
+epsilon:  0.50236
+Step 223, Action: 1, Reward: -1, Done: True
+episode  379
+epsilon:  0.5010399999999999
+Step 164, Action: 1, Reward: -0.1, Done: True
+episode  380
+epsilon:  0.49972000000000005
+Step 19, Action: 0, Reward: -0.1, Done: True
+episode  381
+epsilon:  0.49839999999999995
+Step 11, Action: 1, Reward: 10.0, Done: True
+episode  382
+epsilon:  0.49707999999999997
+Step 135, Action: 2, Reward: 10.0, Done: True
+episode  383
+epsilon:  0.49576
+Step 85, Action: 0, Reward: -0.1, Done: True
+episode  384
+epsilon:  0.49444
+Step 8, Action: 2, Reward: -1, Done: True
+episode  385
+epsilon:  0.49312
+Step 361, Action: 2, Reward: 10.0, Done: True
+episode  386
+epsilon:  0.4918
+Step 432, Action: 1, Reward: 10.0, Done: True
+episode  387
+epsilon:  0.49048
+Step 13, Action: 1, Reward: -0.1, Done: True
+episode  388
+epsilon:  0.48916000000000004
+Step 91, Action: 1, Reward: 10.0, Done: True
+episode  389
+epsilon:  0.48784000000000005
+Step 79, Action: 2, Reward: -1, Done: True
+episode  390
+epsilon:  0.48651999999999995
+Step 1, Action: 3, Reward: -0.1, Done: True
+episode  391
+epsilon:  0.48519999999999996
+Step 81, Action: 2, Reward: -1, Done: True
+episode  392
+epsilon:  0.48388
+Step 95, Action: 1, Reward: 10.0, Done: True
+episode  393
+epsilon:  0.48256
+Step 74, Action: 1, Reward: -0.1, Done: True
+episode  394
+epsilon:  0.48124
+Step 111, Action: 1, Reward: 10.0, Done: True
+episode  395
+epsilon:  0.47992
+Step 84, Action: 2, Reward: -1, Done: True
+episode  396
+epsilon:  0.4786
+Step 200, Action: 1, Reward: -0.1, Done: True
+episode  397
+epsilon:  0.47728000000000004
+Step 243, Action: 0, Reward: -0.1, Done: True
+episode  398
+epsilon:  0.47596000000000005
+Step 206, Action: 1, Reward: 10.0, Done: True
+episode  399
+epsilon:  0.47463999999999995
+Step 420, Action: 1, Reward: -0.1, Done: True
+episode  400
+epsilon:  0.47331999999999996
+Step 55, Action: 1, Reward: -0.1, Done: True
+episode  401
+epsilon:  0.472
+Step 321, Action: 0, Reward: 10.0, Done: True
+episode  402
+epsilon:  0.47068
+Step 144, Action: 3, Reward: -0.1, Done: True
+episode  403
+epsilon:  0.46936
+Step 95, Action: 2, Reward: 10.0, Done: True
+episode  404
+epsilon:  0.46804
+Step 69, Action: 2, Reward: 10.0, Done: True
+episode  405
+epsilon:  0.46672
+Step 499, Action: 0, Reward: 10.0, Done: True
+episode  406
+epsilon:  0.46540000000000004
+Step 389, Action: 0, Reward: -0.1, Done: True
+episode  407
+epsilon:  0.46408000000000005
+Step 44, Action: 3, Reward: 10.0, Done: True
+episode  408
+epsilon:  0.46275999999999995
+Step 107, Action: 0, Reward: 10.0, Done: True
+episode  409
+epsilon:  0.46143999999999996
+Step 19, Action: 1, Reward: -0.1, Done: True
+episode  410
+epsilon:  0.46012
+Step 57, Action: 2, Reward: 10.0, Done: True
+episode  411
+epsilon:  0.4588
+Step 34, Action: 1, Reward: -0.1, Done: True
+episode  412
+epsilon:  0.45748
+Step 58, Action: 0, Reward: 10.0, Done: True
+episode  413
+epsilon:  0.45616
+Step 77, Action: 2, Reward: 10.0, Done: True
+episode  414
+epsilon:  0.45484
+Step 467, Action: 2, Reward: -1, Done: True
+episode  415
+epsilon:  0.45352000000000003
+Step 120, Action: 2, Reward: 10.0, Done: True
+episode  416
+epsilon:  0.45220000000000005
+Step 499, Action: 0, Reward: -1, Done: True
+episode  417
+epsilon:  0.45087999999999995
+Step 33, Action: 1, Reward: -0.1, Done: True
+episode  418
+epsilon:  0.44955999999999996
+Step 268, Action: 3, Reward: -1, Done: True
+episode  419
+epsilon:  0.44823999999999997
+Step 39, Action: 0, Reward: -1, Done: True
+episode  420
+epsilon:  0.44692
+Step 353, Action: 0, Reward: -0.1, Done: True
+episode  421
+epsilon:  0.4456
+Step 20, Action: 1, Reward: -0.1, Done: True
+episode  422
+epsilon:  0.44428
+Step 38, Action: 3, Reward: -0.1, Done: True
+episode  423
+epsilon:  0.44296
+Step 131, Action: 3, Reward: 10.0, Done: True
+episode  424
+epsilon:  0.44164000000000003
+Step 49, Action: 1, Reward: -0.1, Done: True
+episode  425
+epsilon:  0.44032000000000004
+Step 159, Action: 3, Reward: -0.1, Done: True
+episode  426
+epsilon:  0.43900000000000006
+Step 101, Action: 1, Reward: 10.0, Done: True
+episode  427
+epsilon:  0.43767999999999996
+Step 53, Action: 2, Reward: -1, Done: True
+episode  428
+epsilon:  0.43635999999999997
+Step 460, Action: 0, Reward: -0.1, Done: True
+episode  429
+epsilon:  0.43504
+Step 38, Action: 2, Reward: -1, Done: True
+episode  430
+epsilon:  0.43372
+Step 22, Action: 0, Reward: -0.1, Done: True
+episode  431
+epsilon:  0.4324
+Step 12, Action: 3, Reward: -1, Done: True
+episode  432
+epsilon:  0.43108
+Step 96, Action: 3, Reward: -0.1, Done: True
+episode  433
+epsilon:  0.42976000000000003
+Step 181, Action: 1, Reward: 10.0, Done: True
+episode  434
+epsilon:  0.42844000000000004
+Step 69, Action: 1, Reward: -0.1, Done: True
+episode  435
+epsilon:  0.42712000000000006
+Step 451, Action: 1, Reward: -0.1, Done: True
+episode  436
+epsilon:  0.42579999999999996
+Step 75, Action: 3, Reward: -0.1, Done: True
+episode  437
+epsilon:  0.42447999999999997
+Step 496, Action: 0, Reward: -0.1, Done: True
+episode  438
+epsilon:  0.42316
+Step 141, Action: 0, Reward: 10.0, Done: True
+episode  439
+epsilon:  0.42184
+Step 28, Action: 0, Reward: -0.1, Done: True
+episode  440
+epsilon:  0.42052
+Step 169, Action: 2, Reward: -1, Done: True
+episode  441
+epsilon:  0.4192
+Step 42, Action: 2, Reward: -0.1, Done: True
+episode  442
+epsilon:  0.41788000000000003
+Step 52, Action: 3, Reward: -0.1, Done: True
+episode  443
+epsilon:  0.41656000000000004
+Step 202, Action: 3, Reward: -1, Done: True
+episode  444
+epsilon:  0.41524000000000005
+Step 175, Action: 0, Reward: 10.0, Done: True
+episode  445
+epsilon:  0.41391999999999995
+Step 174, Action: 3, Reward: -0.1, Done: True
+episode  446
+epsilon:  0.41259999999999997
+Step 7, Action: 0, Reward: -0.1, Done: True
+episode  447
+epsilon:  0.41128
+Step 152, Action: 0, Reward: 10.0, Done: True
+episode  448
+epsilon:  0.40996
+Step 265, Action: 3, Reward: -0.1, Done: True
+episode  449
+epsilon:  0.40864
+Step 499, Action: 2, Reward: -0.1, Done: True
+episode  450
+epsilon:  0.40732
+Step 306, Action: 2, Reward: 10.0, Done: True
+episode  451
+epsilon:  0.406
+Step 118, Action: 0, Reward: -0.1, Done: True
+episode  452
+epsilon:  0.40468000000000004
+Step 207, Action: 1, Reward: 10.0, Done: True
+episode  453
+epsilon:  0.40336000000000005
+Step 151, Action: 3, Reward: 10.0, Done: True
+episode  454
+epsilon:  0.40203999999999995
+Step 1, Action: 1, Reward: -0.1, Done: True
+episode  455
+epsilon:  0.40071999999999997
+Step 199, Action: 1, Reward: -0.1, Done: True
+episode  456
+epsilon:  0.3994
+Step 29, Action: 2, Reward: 10.0, Done: True
+episode  457
+epsilon:  0.39808
+Step 7, Action: 0, Reward: -0.1, Done: True
+episode  458
+epsilon:  0.39676
+Step 26, Action: 2, Reward: -1, Done: True
+episode  459
+epsilon:  0.39544
+Step 1, Action: 1, Reward: -0.1, Done: True
+episode  460
+epsilon:  0.39412
+Step 214, Action: 3, Reward: 10.0, Done: True
+episode  461
+epsilon:  0.39280000000000004
+Step 13, Action: 1, Reward: -0.1, Done: True
+episode  462
+epsilon:  0.39148000000000005
+Step 71, Action: 2, Reward: -1, Done: True
+episode  463
+epsilon:  0.39015999999999995
+Step 253, Action: 0, Reward: -1, Done: True
+episode  464
+epsilon:  0.38883999999999996
+Step 339, Action: 1, Reward: 10.0, Done: True
+episode  465
+epsilon:  0.38752
+Step 333, Action: 3, Reward: 10.0, Done: True
+episode  466
+epsilon:  0.3862
+Step 45, Action: 3, Reward: -1, Done: True
+episode  467
+epsilon:  0.38488
+Step 14, Action: 3, Reward: -0.1, Done: True
+episode  468
+epsilon:  0.38356
+Step 55, Action: 2, Reward: -1, Done: True
+episode  469
+epsilon:  0.38224
+Step 101, Action: 0, Reward: 10.0, Done: True
+episode  470
+epsilon:  0.38092000000000004
+Step 220, Action: 1, Reward: -0.1, Done: True
+episode  471
+epsilon:  0.37960000000000005
+Step 136, Action: 3, Reward: -0.1, Done: True
+episode  472
+epsilon:  0.37827999999999995
+Step 148, Action: 0, Reward: -0.1, Done: True
+episode  473
+epsilon:  0.37695999999999996
+Step 175, Action: 0, Reward: -0.1, Done: True
+episode  474
+epsilon:  0.37564
+Step 41, Action: 2, Reward: -1, Done: True
+episode  475
+epsilon:  0.37432
+Step 94, Action: 2, Reward: -1, Done: True
+episode  476
+epsilon:  0.373
+Step 127, Action: 3, Reward: -0.1, Done: True
+episode  477
+epsilon:  0.37168
+Step 114, Action: 1, Reward: -0.1, Done: True
+episode  478
+epsilon:  0.37036
+Step 48, Action: 2, Reward: 10.0, Done: True
+episode  479
+epsilon:  0.36904000000000003
+Step 239, Action: 3, Reward: -1, Done: True
+episode  480
+epsilon:  0.36772000000000005
+Step 499, Action: 0, Reward: -0.1, Done: True
+episode  481
+epsilon:  0.36640000000000006
+Step 41, Action: 2, Reward: -1, Done: True
+episode  482
+epsilon:  0.36507999999999996
+Step 31, Action: 2, Reward: -1, Done: True
+episode  483
+epsilon:  0.36376
+Step 411, Action: 0, Reward: -0.1, Done: True
+episode  484
+epsilon:  0.36244
+Step 12, Action: 2, Reward: -1, Done: True
+episode  485
+epsilon:  0.36112
+Step 325, Action: 2, Reward: -0.1, Done: True
+episode  486
+epsilon:  0.3598
+Step 247, Action: 0, Reward: -0.1, Done: True
+episode  487
+epsilon:  0.35848
+Step 35, Action: 0, Reward: 10.0, Done: True
+episode  488
+epsilon:  0.35716000000000003
+Step 209, Action: 0, Reward: -0.1, Done: True
+episode  489
+epsilon:  0.35584000000000005
+Step 52, Action: 2, Reward: -1, Done: True
+episode  490
+epsilon:  0.35452000000000006
+Step 346, Action: 1, Reward: -0.1, Done: True
+episode  491
+epsilon:  0.35319999999999996
+Step 499, Action: 3, Reward: -1, Done: True
+episode  492
+epsilon:  0.35187999999999997
+Step 344, Action: 2, Reward: -1, Done: True
+episode  493
+epsilon:  0.35056
+Step 247, Action: 2, Reward: -1, Done: True
+episode  494
+epsilon:  0.34924
+Step 41, Action: 2, Reward: -1, Done: True
+episode  495
+epsilon:  0.34792
+Step 16, Action: 0, Reward: -0.1, Done: True
+episode  496
+epsilon:  0.3466
+Step 6, Action: 0, Reward: -0.1, Done: True
+episode  497
+epsilon:  0.34528000000000003
+Step 223, Action: 2, Reward: -1, Done: True
+episode  498
+epsilon:  0.34396000000000004
+Step 156, Action: 1, Reward: -0.1, Done: True
+episode  499
+epsilon:  0.34264000000000006
+Step 282, Action: 0, Reward: -0.1, Done: True
+episode  500
+epsilon:  0.34131999999999996
+Step 103, Action: 0, Reward: -0.1, Done: True
+episode  501
+epsilon:  0.33999999999999997
+Step 5, Action: 1, Reward: -1, Done: True
+episode  502
+epsilon:  0.33868
+Step 372, Action: 3, Reward: -0.1, Done: True
+episode  503
+epsilon:  0.33736
+Step 186, Action: 3, Reward: -1, Done: True
+episode  504
+epsilon:  0.33604
+Step 48, Action: 1, Reward: -1, Done: True
+episode  505
+epsilon:  0.33472
+Step 79, Action: 2, Reward: 10.0, Done: True
+episode  506
+epsilon:  0.33340000000000003
+Step 3, Action: 1, Reward: -0.1, Done: True
+episode  507
+epsilon:  0.33208000000000004
+Step 163, Action: 1, Reward: -0.1, Done: True
+episode  508
+epsilon:  0.33076000000000005
+Step 165, Action: 3, Reward: -0.1, Done: True
+episode  509
+epsilon:  0.32943999999999996
+Step 260, Action: 0, Reward: 10.0, Done: True
+episode  510
+epsilon:  0.32811999999999997
+Step 76, Action: 3, Reward: -0.1, Done: True
+episode  511
+epsilon:  0.3268
+Step 44, Action: 3, Reward: -0.1, Done: True
+episode  512
+epsilon:  0.32548
+Step 142, Action: 3, Reward: -0.1, Done: True
+episode  513
+epsilon:  0.32416
+Step 306, Action: 1, Reward: 10.0, Done: True
+episode  514
+epsilon:  0.32284
+Step 212, Action: 3, Reward: -0.1, Done: True
+episode  515
+epsilon:  0.32152000000000003
+Step 173, Action: 3, Reward: -0.1, Done: True
+episode  516
+epsilon:  0.32020000000000004
+Step 13, Action: 1, Reward: -0.1, Done: True
+episode  517
+epsilon:  0.31888000000000005
+Step 98, Action: 0, Reward: -0.1, Done: True
+episode  518
+epsilon:  0.31755999999999995
+Step 256, Action: 0, Reward: -0.1, Done: True
+episode  519
+epsilon:  0.31623999999999997
+Step 31, Action: 1, Reward: -0.1, Done: True
+episode  520
+epsilon:  0.31492
+Step 188, Action: 0, Reward: -0.1, Done: True
+episode  521
+epsilon:  0.3136
+Step 258, Action: 0, Reward: -0.1, Done: True
+episode  522
+epsilon:  0.31228
+Step 166, Action: 2, Reward: 10.0, Done: True
+episode  523
+epsilon:  0.31096
+Step 499, Action: 3, Reward: -0.1, Done: True
+episode  524
+epsilon:  0.30964
+Step 271, Action: 2, Reward: 10.0, Done: True
+episode  525
+epsilon:  0.30832000000000004
+Step 43, Action: 3, Reward: -0.1, Done: True
+episode  526
+epsilon:  0.30700000000000005
+Step 60, Action: 0, Reward: -0.1, Done: True
+episode  527
+epsilon:  0.30567999999999995
+Step 183, Action: 2, Reward: 10.0, Done: True
+episode  528
+epsilon:  0.30435999999999996
+Step 311, Action: 2, Reward: 10.0, Done: True
+episode  529
+epsilon:  0.30304
+Step 499, Action: 3, Reward: -1, Done: True
+episode  530
+epsilon:  0.30172
+Step 54, Action: 2, Reward: -1, Done: True
+episode  531
+epsilon:  0.3004
+Step 131, Action: 1, Reward: 10.0, Done: True
+episode  532
+epsilon:  0.29908
+Step 499, Action: 2, Reward: -0.1, Done: True
+episode  533
+epsilon:  0.29776
+Step 99, Action: 1, Reward: -1, Done: True
+episode  534
+epsilon:  0.29644000000000004
+Step 100, Action: 3, Reward: -0.1, Done: True
+episode  535
+epsilon:  0.29512000000000005
+Step 90, Action: 2, Reward: -0.1, Done: True
+episode  536
+epsilon:  0.29379999999999995
+Step 25, Action: 1, Reward: -0.1, Done: True
+episode  537
+epsilon:  0.29247999999999996
+Step 416, Action: 1, Reward: 10.0, Done: True
+episode  538
+epsilon:  0.29116
+Step 7, Action: 1, Reward: -0.1, Done: True
+episode  539
+epsilon:  0.28984
+Step 98, Action: 1, Reward: -1, Done: True
+episode  540
+epsilon:  0.28852
+Step 4, Action: 2, Reward: -1, Done: True
+episode  541
+epsilon:  0.2872
+Step 5, Action: 2, Reward: -1, Done: True
+episode  542
+epsilon:  0.28588
+Step 499, Action: 1, Reward: -0.1, Done: True
+episode  543
+epsilon:  0.28456000000000004
+Step 252, Action: 0, Reward: -1, Done: True
+episode  544
+epsilon:  0.28324000000000005
+Step 447, Action: 0, Reward: -0.1, Done: True
+episode  545
+epsilon:  0.28191999999999995
+Step 40, Action: 2, Reward: -1, Done: True
+episode  546
+epsilon:  0.28059999999999996
+Step 119, Action: 3, Reward: -0.1, Done: True
+episode  547
+epsilon:  0.27928
+Step 499, Action: 2, Reward: -0.1, Done: True
+episode  548
+epsilon:  0.27796
+Step 236, Action: 1, Reward: -1, Done: True
+episode  549
+epsilon:  0.27664
+Step 212, Action: 2, Reward: -1, Done: True
+episode  550
+epsilon:  0.27532
+Step 138, Action: 0, Reward: -0.1, Done: True
+episode  551
+epsilon:  0.274
+Step 63, Action: 2, Reward: -1, Done: True
+episode  552
+epsilon:  0.27268000000000003
+Step 320, Action: 3, Reward: -1, Done: True
+episode  553
+epsilon:  0.27136000000000005
+Step 87, Action: 2, Reward: -1, Done: True
+episode  554
+epsilon:  0.27004000000000006
+Step 19, Action: 2, Reward: -1, Done: True
+episode  555
+epsilon:  0.26871999999999996
+Step 59, Action: 2, Reward: -1, Done: True
+episode  556
+epsilon:  0.26739999999999997
+Step 246, Action: 3, Reward: -0.1, Done: True
+episode  557
+epsilon:  0.26608
+Step 44, Action: 1, Reward: -1, Done: True
+episode  558
+epsilon:  0.26476
+Step 233, Action: 3, Reward: -0.1, Done: True
+episode  559
+epsilon:  0.26344
+Step 27, Action: 1, Reward: -0.1, Done: True
+episode  560
+epsilon:  0.26212
+Step 19, Action: 2, Reward: -1, Done: True
+episode  561
+epsilon:  0.26080000000000003
+Step 499, Action: 3, Reward: -1, Done: True
+episode  562
+epsilon:  0.25948000000000004
+Step 72, Action: 2, Reward: -1, Done: True
+episode  563
+epsilon:  0.25816000000000006
+Step 105, Action: 2, Reward: -0.1, Done: True
+episode  564
+epsilon:  0.25683999999999996
+Step 499, Action: 1, Reward: -0.1, Done: True
+episode  565
+epsilon:  0.25551999999999997
+Step 189, Action: 0, Reward: -0.1, Done: True
+episode  566
+epsilon:  0.2542
+Step 499, Action: 1, Reward: -0.1, Done: True
+episode  567
+epsilon:  0.25288
+Step 97, Action: 0, Reward: 10.0, Done: True
+episode  568
+epsilon:  0.25156
+Step 54, Action: 3, Reward: -0.1, Done: True
+episode  569
+epsilon:  0.25024
+Step 143, Action: 0, Reward: -0.1, Done: True
+episode  570
+epsilon:  0.24892000000000003
+Step 25, Action: 1, Reward: -0.1, Done: True
+episode  571
+epsilon:  0.24760000000000004
+Step 69, Action: 1, Reward: 10.0, Done: True
+episode  572
+epsilon:  0.24628000000000005
+Step 13, Action: 1, Reward: -0.1, Done: True
+episode  573
+epsilon:  0.24495999999999996
+Step 7, Action: 2, Reward: -1, Done: True
+episode  574
+epsilon:  0.24363999999999997
+Step 499, Action: 3, Reward: -0.1, Done: True
+episode  575
+epsilon:  0.24231999999999998
+Step 114, Action: 2, Reward: -1, Done: True
+episode  576
+epsilon:  0.241
+Step 289, Action: 0, Reward: -0.1, Done: True
+episode  577
+epsilon:  0.23968
+Step 180, Action: 3, Reward: -0.1, Done: True
+episode  578
+epsilon:  0.23836000000000002
+Step 499, Action: 3, Reward: -1, Done: True
+episode  579
+epsilon:  0.23704000000000003
+Step 121, Action: 0, Reward: -1, Done: True
+episode  580
+epsilon:  0.23572000000000004
+Step 46, Action: 0, Reward: -0.1, Done: True
+episode  581
+epsilon:  0.23440000000000005
+Step 499, Action: 3, Reward: -1, Done: True
+episode  582
+epsilon:  0.23307999999999995
+Step 7, Action: 2, Reward: -1, Done: True
+episode  583
+epsilon:  0.23175999999999997
+Step 499, Action: 1, Reward: -1, Done: True
+episode  584
+epsilon:  0.23043999999999998
+Step 499, Action: 0, Reward: -0.1, Done: True
+episode  585
+epsilon:  0.22912
+Step 1, Action: 2, Reward: -1, Done: True
+episode  586
+epsilon:  0.2278
+Step 24, Action: 0, Reward: -1, Done: True
+episode  587
+epsilon:  0.22648000000000001
+Step 499, Action: 3, Reward: -0.1, Done: True
+episode  588
+epsilon:  0.22516000000000003
+Step 48, Action: 0, Reward: -1, Done: True
+episode  589
+epsilon:  0.22384000000000004
+Step 499, Action: 0, Reward: -1, Done: True
+episode  590
+epsilon:  0.22252000000000005
+Step 122, Action: 0, Reward: 10.0, Done: True
+episode  591
+epsilon:  0.22119999999999995
+Step 14, Action: 0, Reward: -0.1, Done: True
+episode  592
+epsilon:  0.21987999999999996
+Step 93, Action: 1, Reward: -0.1, Done: True
+episode  593
+epsilon:  0.21855999999999998
+Step 499, Action: 3, Reward: -1, Done: True
+episode  594
+epsilon:  0.21724
+Step 135, Action: 0, Reward: -0.1, Done: True
+episode  595
+epsilon:  0.21592
+Step 149, Action: 2, Reward: -1, Done: True
+episode  596
+epsilon:  0.2146
+Step 499, Action: 2, Reward: -0.1, Done: True
+episode  597
+epsilon:  0.21328000000000003
+Step 55, Action: 3, Reward: 10.0, Done: True
+episode  598
+epsilon:  0.21196000000000004
+Step 307, Action: 1, Reward: -1, Done: True
+episode  599
+epsilon:  0.21064000000000005
+Step 80, Action: 0, Reward: -1, Done: True
+episode  600
+epsilon:  0.20931999999999995
+Step 499, Action: 1, Reward: -0.1, Done: True
+episode  601
+epsilon:  0.20799999999999996
+Step 499, Action: 0, Reward: -0.1, Done: True
+episode  602
+epsilon:  0.20667999999999997
+Step 247, Action: 3, Reward: -0.1, Done: True
+episode  603
+epsilon:  0.20536
+Step 31, Action: 1, Reward: -1, Done: True
+episode  604
+epsilon:  0.20404
+Step 142, Action: 3, Reward: -0.1, Done: True
+episode  605
+epsilon:  0.20272
+Step 8, Action: 3, Reward: -0.1, Done: True
+episode  606
+epsilon:  0.20140000000000002
+Step 70, Action: 3, Reward: -0.1, Done: True
+episode  607
+epsilon:  0.20008000000000004
+Step 17, Action: 0, Reward: -0.1, Done: True
+episode  608
+epsilon:  0.19876000000000005
+Step 341, Action: 3, Reward: -0.1, Done: True
+episode  609
+epsilon:  0.19744000000000006
+Step 178, Action: 3, Reward: -0.1, Done: True
+episode  610
+epsilon:  0.19611999999999996
+Step 299, Action: 1, Reward: -0.1, Done: True
+episode  611
+epsilon:  0.19479999999999997
+Step 102, Action: 3, Reward: 10.0, Done: True
+episode  612
+epsilon:  0.19347999999999999
+Step 143, Action: 1, Reward: -0.1, Done: True
+episode  613
+epsilon:  0.19216
+Step 266, Action: 2, Reward: -1, Done: True
+episode  614
+epsilon:  0.19084
+Step 75, Action: 2, Reward: 10.0, Done: True
+episode  615
+epsilon:  0.18952000000000002
+Step 308, Action: 0, Reward: -0.1, Done: True
+episode  616
+epsilon:  0.18820000000000003
+Step 355, Action: 1, Reward: -1, Done: True
+episode  617
+epsilon:  0.18688000000000005
+Step 29, Action: 2, Reward: 10.0, Done: True
+episode  618
+epsilon:  0.18556000000000006
+Step 499, Action: 1, Reward: -0.1, Done: True
+episode  619
+epsilon:  0.18423999999999996
+Step 13, Action: 2, Reward: -1, Done: True
+episode  620
+epsilon:  0.18291999999999997
+Step 234, Action: 3, Reward: 10.0, Done: True
+episode  621
+epsilon:  0.18159999999999998
+Step 499, Action: 2, Reward: -1, Done: True
+episode  622
+epsilon:  0.18028
+Step 345, Action: 2, Reward: 10.0, Done: True
+episode  623
+epsilon:  0.17896
+Step 176, Action: 1, Reward: -0.1, Done: True
+episode  624
+epsilon:  0.17764000000000002
+Step 499, Action: 0, Reward: -1, Done: True
+episode  625
+epsilon:  0.17632000000000003
+Step 28, Action: 1, Reward: -0.1, Done: True
+episode  626
+epsilon:  0.17500000000000004
+Step 60, Action: 1, Reward: -0.1, Done: True
+episode  627
+epsilon:  0.17368000000000006
+Step 134, Action: 2, Reward: 10.0, Done: True
+episode  628
+epsilon:  0.17235999999999996
+Step 338, Action: 1, Reward: -0.1, Done: True
+episode  629
+epsilon:  0.17103999999999997
+Step 137, Action: 2, Reward: -1, Done: True
+episode  630
+epsilon:  0.16971999999999998
+Step 499, Action: 2, Reward: -0.1, Done: True
+episode  631
+epsilon:  0.1684
+Step 499, Action: 1, Reward: -1, Done: True
+episode  632
+epsilon:  0.16708
+Step 252, Action: 2, Reward: -1, Done: True
+episode  633
+epsilon:  0.16576000000000002
+Step 184, Action: 3, Reward: 10.0, Done: True
+episode  634
+epsilon:  0.16444000000000003
+Step 483, Action: 2, Reward: 10.0, Done: True
+episode  635
+epsilon:  0.16312000000000004
+Step 138, Action: 3, Reward: -0.1, Done: True
+episode  636
+epsilon:  0.16180000000000005
+Step 51, Action: 1, Reward: -0.1, Done: True
+episode  637
+epsilon:  0.16047999999999996
+Step 15, Action: 1, Reward: -0.1, Done: True
+episode  638
+epsilon:  0.15915999999999997
+Step 101, Action: 1, Reward: -0.1, Done: True
+episode  639
+epsilon:  0.15783999999999998
+Step 130, Action: 2, Reward: -1, Done: True
+episode  640
+epsilon:  0.15652
+Step 160, Action: 2, Reward: -1, Done: True
+episode  641
+epsilon:  0.1552
+Step 110, Action: 0, Reward: -0.1, Done: True
+episode  642
+epsilon:  0.15388000000000002
+Step 499, Action: 1, Reward: -1, Done: True
+episode  643
+epsilon:  0.15256000000000003
+Step 309, Action: 2, Reward: -0.1, Done: True
+episode  644
+epsilon:  0.15124000000000004
+Step 269, Action: 0, Reward: -0.1, Done: True
+episode  645
+epsilon:  0.14992000000000005
+Step 340, Action: 0, Reward: -0.1, Done: True
+episode  646
+epsilon:  0.14859999999999995
+Step 499, Action: 0, Reward: -1, Done: True
+episode  647
+epsilon:  0.14727999999999997
+Step 42, Action: 3, Reward: -1, Done: True
+episode  648
+epsilon:  0.14595999999999998
+Step 336, Action: 3, Reward: 10.0, Done: True
+episode  649
+epsilon:  0.14464
+Step 221, Action: 2, Reward: -1, Done: True
+episode  650
+epsilon:  0.14332
+Step 422, Action: 0, Reward: -0.1, Done: True
+episode  651
+epsilon:  0.14200000000000002
+Step 102, Action: 0, Reward: -0.1, Done: True
+episode  652
+epsilon:  0.14068000000000003
+Step 261, Action: 1, Reward: -0.1, Done: True
+episode  653
+epsilon:  0.13936000000000004
+Step 425, Action: 3, Reward: 10.0, Done: True
+episode  654
+epsilon:  0.13804000000000005
+Step 402, Action: 2, Reward: -1, Done: True
+episode  655
+epsilon:  0.13671999999999995
+Step 264, Action: 3, Reward: 10.0, Done: True
+episode  656
+epsilon:  0.13539999999999996
+Step 499, Action: 3, Reward: -1, Done: True
+episode  657
+epsilon:  0.13407999999999998
+Step 208, Action: 1, Reward: -0.1, Done: True
+episode  658
+epsilon:  0.13276
+Step 127, Action: 2, Reward: -1, Done: True
+episode  659
+epsilon:  0.13144
+Step 232, Action: 1, Reward: -0.1, Done: True
+episode  660
+epsilon:  0.13012
+Step 164, Action: 1, Reward: -0.1, Done: True
+episode  661
+epsilon:  0.12880000000000003
+Step 248, Action: 3, Reward: -1, Done: True
+episode  662
+epsilon:  0.12748000000000004
+Step 19, Action: 1, Reward: -0.1, Done: True
+episode  663
+epsilon:  0.12616000000000005
+Step 499, Action: 3, Reward: -0.1, Done: True
+episode  664
+epsilon:  0.12483999999999995
+Step 68, Action: 3, Reward: 10.0, Done: True
+episode  665
+epsilon:  0.12351999999999996
+Step 499, Action: 3, Reward: -1, Done: True
+episode  666
+epsilon:  0.12219999999999998
+Step 45, Action: 3, Reward: -0.1, Done: True
+episode  667
+epsilon:  0.12087999999999999
+Step 488, Action: 3, Reward: 10.0, Done: True
+episode  668
+epsilon:  0.11956
+Step 68, Action: 2, Reward: -1, Done: True
+episode  669
+epsilon:  0.11824000000000001
+Step 141, Action: 2, Reward: -1, Done: True
+episode  670
+epsilon:  0.11692000000000002
+Step 13, Action: 2, Reward: -1, Done: True
+episode  671
+epsilon:  0.11560000000000004
+Step 483, Action: 2, Reward: -1, Done: True
+episode  672
+epsilon:  0.11428000000000005
+Step 304, Action: 1, Reward: -0.1, Done: True
+episode  673
+epsilon:  0.11295999999999995
+Step 384, Action: 1, Reward: -0.1, Done: True
+episode  674
+epsilon:  0.11163999999999996
+Step 499, Action: 0, Reward: -0.1, Done: True
+episode  675
+epsilon:  0.11031999999999997
+Step 499, Action: 0, Reward: -1, Done: True
+episode  676
+epsilon:  0.10899999999999999
+Step 499, Action: 1, Reward: -0.1, Done: True
+episode  677
+epsilon:  0.10768
+Step 499, Action: 0, Reward: -1, Done: True
+episode  678
+epsilon:  0.10636000000000001
+Step 95, Action: 0, Reward: 10.0, Done: True
+episode  679
+epsilon:  0.10504000000000002
+Step 499, Action: 3, Reward: -0.1, Done: True
+episode  680
+epsilon:  0.10372000000000003
+Step 499, Action: 1, Reward: -1, Done: True
+episode  681
+epsilon:  0.10240000000000005
+Step 499, Action: 0, Reward: -1, Done: True
+episode  682
+epsilon:  0.10108000000000006
+Step 499, Action: 0, Reward: -1, Done: True
+episode  683
+epsilon:  0.09975999999999996
+Step 499, Action: 3, Reward: -0.1, Done: True
+episode  684
+epsilon:  0.09843999999999997
+Step 203, Action: 3, Reward: 10.0, Done: True
+episode  685
+epsilon:  0.09711999999999998
+Step 330, Action: 2, Reward: -1, Done: True
+episode  686
+epsilon:  0.0958
+Step 499, Action: 2, Reward: -0.1, Done: True
+episode  687
+epsilon:  0.09448000000000001
+Step 356, Action: 3, Reward: -1, Done: True
+episode  688
+epsilon:  0.09316000000000002
+Step 492, Action: 3, Reward: -0.1, Done: True
+episode  689
+epsilon:  0.09184000000000003
+Step 186, Action: 3, Reward: -0.1, Done: True
+episode  690
+epsilon:  0.09052000000000004
+Step 499, Action: 0, Reward: -1, Done: True
+episode  691
+epsilon:  0.08920000000000006
+Step 384, Action: 3, Reward: 10.0, Done: True
+episode  692
+epsilon:  0.08787999999999996
+Step 499, Action: 3, Reward: -0.1, Done: True
+episode  693
+epsilon:  0.08655999999999997
+Step 499, Action: 1, Reward: -1, Done: True
+episode  694
+epsilon:  0.08523999999999998
+Step 499, Action: 0, Reward: -0.1, Done: True
+episode  695
+epsilon:  0.08392
+Step 499, Action: 0, Reward: -1, Done: True
+episode  696
+epsilon:  0.0826
+Step 7, Action: 2, Reward: -1, Done: True
+episode  697
+epsilon:  0.08128000000000002
+Step 42, Action: 1, Reward: -0.1, Done: True
+episode  698
+epsilon:  0.07996000000000003
+Step 499, Action: 0, Reward: -0.1, Done: True
+episode  699
+epsilon:  0.07864000000000004
+Step 296, Action: 1, Reward: -0.1, Done: True
+episode  700
+epsilon:  0.07732000000000006
+Step 499, Action: 3, Reward: -0.1, Done: True
+episode  701
+epsilon:  0.07599999999999996
+Step 499, Action: 1, Reward: -1, Done: True
+episode  702
+epsilon:  0.07467999999999997
+Step 309, Action: 2, Reward: -1, Done: True
+episode  703
+epsilon:  0.07335999999999998
+Step 499, Action: 1, Reward: -0.1, Done: True
+episode  704
+epsilon:  0.07203999999999999
+Step 20, Action: 0, Reward: 10.0, Done: True
+episode  705
+epsilon:  0.07072
+Step 114, Action: 2, Reward: -1, Done: True
+episode  706
+epsilon:  0.06940000000000002
+Step 44, Action: 3, Reward: -0.1, Done: True
+episode  707
+epsilon:  0.06808000000000003
+Step 499, Action: 2, Reward: -1, Done: True
+episode  708
+epsilon:  0.06676000000000004
+Step 438, Action: 0, Reward: 10.0, Done: True
+episode  709
+epsilon:  0.06544000000000005
+Step 455, Action: 2, Reward: -1, Done: True
+episode  710
+epsilon:  0.06411999999999995
+Step 249, Action: 1, Reward: -0.1, Done: True
+episode  711
+epsilon:  0.06279999999999997
+Step 345, Action: 2, Reward: -1, Done: True
+episode  712
+epsilon:  0.06147999999999998
+Step 499, Action: 1, Reward: -1, Done: True
+episode  713
+epsilon:  0.06015999999999999
+Step 499, Action: 0, Reward: -0.1, Done: True
+episode  714
+epsilon:  0.05884
+Step 48, Action: 0, Reward: -0.1, Done: True
+episode  715
+epsilon:  0.057520000000000016
+Step 499, Action: 3, Reward: -1, Done: True
+episode  716
+epsilon:  0.05620000000000003
+Step 150, Action: 1, Reward: -0.1, Done: True
+episode  717
+epsilon:  0.05488000000000004
+Step 499, Action: 2, Reward: -0.1, Done: True
+episode  718
+epsilon:  0.05356000000000005
+Step 499, Action: 3, Reward: -1, Done: True
+episode  719
+epsilon:  0.05223999999999995
+Step 326, Action: 0, Reward: -0.1, Done: True
+episode  720
+epsilon:  0.050919999999999965
+Step 115, Action: 2, Reward: -1, Done: True
+episode  721
+epsilon:  0.04959999999999998
+Step 499, Action: 2, Reward: -1, Done: True
+episode  722
+epsilon:  0.04827999999999999
+Step 1, Action: 2, Reward: -1, Done: True
+episode  723
+epsilon:  0.04696
+Step 499, Action: 0, Reward: -0.1, Done: True
+episode  724
+epsilon:  0.045640000000000014
+Step 499, Action: 3, Reward: -0.1, Done: True
+episode  725
+epsilon:  0.044320000000000026
+Step 499, Action: 3, Reward: -1, Done: True
+episode  726
+epsilon:  0.04300000000000004
+Step 261, Action: 2, Reward: -1, Done: True
+episode  727
+epsilon:  0.04168000000000005
+Step 499, Action: 0, Reward: -0.1, Done: True
+episode  728
+epsilon:  0.04035999999999995
+Step 374, Action: 2, Reward: -1, Done: True
+episode  729
+epsilon:  0.039039999999999964
+Step 499, Action: 0, Reward: -1, Done: True
+episode  730
+epsilon:  0.037719999999999976
+Step 130, Action: 3, Reward: -0.1, Done: True
+episode  731
+epsilon:  0.03639999999999999
+Step 13, Action: 0, Reward: -0.1, Done: True
+episode  732
+epsilon:  0.03508
+Step 152, Action: 2, Reward: 10.0, Done: True
+episode  733
+epsilon:  0.03376000000000001
+Step 25, Action: 0, Reward: -0.1, Done: True
+episode  734
+epsilon:  0.032440000000000024
+Step 499, Action: 2, Reward: -0.1, Done: True
+episode  735
+epsilon:  0.031120000000000037
+Step 346, Action: 2, Reward: -1, Done: True
+episode  736
+epsilon:  0.02980000000000005
+Step 286, Action: 2, Reward: -1, Done: True
+episode  737
+epsilon:  0.02848000000000006
+Step 499, Action: 1, Reward: -1, Done: True
+episode  738
+epsilon:  0.027159999999999962
+Step 29, Action: 3, Reward: -0.1, Done: True
+episode  739
+epsilon:  0.025839999999999974
+Step 499, Action: 1, Reward: -0.1, Done: True
+episode  740
+epsilon:  0.024519999999999986
+Step 173, Action: 1, Reward: -0.1, Done: True
+episode  741
+epsilon:  0.0232
+Step 499, Action: 1, Reward: -1, Done: True
+episode  742
+epsilon:  0.02188000000000001
+Step 499, Action: 1, Reward: -1, Done: True
+episode  743
+epsilon:  0.020560000000000023
+Step 16, Action: 3, Reward: -0.1, Done: True
+episode  744
+epsilon:  0.019240000000000035
+Step 499, Action: 0, Reward: -1, Done: True
+episode  745
+epsilon:  0.017920000000000047
+Step 30, Action: 2, Reward: 10.0, Done: True
+episode  746
+epsilon:  0.01660000000000006
+Step 499, Action: 3, Reward: -1, Done: True
+episode  747
+epsilon:  0.01527999999999996
+Step 499, Action: 0, Reward: -0.1, Done: True
+episode  748
+epsilon:  0.013959999999999972
+Step 499, Action: 1, Reward: -1, Done: True
+episode  749
+epsilon:  0.012639999999999985
+Step 421, Action: 1, Reward: -0.1, Done: True
+episode  750
+epsilon:  0.011319999999999997
+Step 499, Action: 0, Reward: -1, Done: True
+episode  751
+epsilon:  0.01
+Step 499, Action: 0, Reward: -1, Done: True
+episode  752
+epsilon:  0.01
+Step 499, Action: 3, Reward: -1, Done: True
+episode  753
+epsilon:  0.01
+Step 499, Action: 3, Reward: -1, Done: True
+episode  754
+epsilon:  0.01
+Step 499, Action: 3, Reward: -1, Done: True
+episode  755
+epsilon:  0.01
+Step 499, Action: 1, Reward: -1, Done: True
+episode  756
+epsilon:  0.01
+Step 499, Action: 1, Reward: -0.1, Done: True
+episode  757
+epsilon:  0.01
+Step 499, Action: 0, Reward: -1, Done: True
+episode  758
+epsilon:  0.01
+Step 499, Action: 1, Reward: -0.1, Done: True
+episode  759
+epsilon:  0.01
+Step 499, Action: 3, Reward: -1, Done: True
+episode  760
+epsilon:  0.01
+Step 499, Action: 3, Reward: -1, Done: True
+episode  761
+epsilon:  0.01
+Step 499, Action: 0, Reward: -0.1, Done: True
+episode  762
+epsilon:  0.01
+Step 499, Action: 3, Reward: -1, Done: True
+episode  763
+epsilon:  0.01
+Step 499, Action: 0, Reward: -1, Done: True
+episode  764
+epsilon:  0.01
+Step 499, Action: 2, Reward: -0.1, Done: True
+episode  765
+epsilon:  0.01
+Step 499, Action: 1, Reward: -0.1, Done: True
+episode  766
+epsilon:  0.01
+Step 499, Action: 1, Reward: -1, Done: True
+episode  767
+epsilon:  0.01
+Step 499, Action: 3, Reward: -1, Done: True
+episode  768
+epsilon:  0.01
+Step 499, Action: 3, Reward: -0.1, Done: True
+episode  769
+epsilon:  0.01
+Step 499, Action: 1, Reward: -0.1, Done: True
+episode  770
+epsilon:  0.01
+Step 499, Action: 3, Reward: -1, Done: True
+episode  771
+epsilon:  0.01
+Step 499, Action: 1, Reward: -0.1, Done: True
+episode  772
+epsilon:  0.01
+Step 499, Action: 1, Reward: -1, Done: True
+episode  773
+epsilon:  0.01
+Step 499, Action: 0, Reward: -0.1, Done: True
+episode  774
+epsilon:  0.01
+Step 499, Action: 0, Reward: -0.1, Done: True
+episode  775
+epsilon:  0.01
+Step 499, Action: 3, Reward: -1, Done: True
+episode  776
+epsilon:  0.01
+Step 55, Action: 1, Reward: -0.1, Done: True
+episode  777
+epsilon:  0.01
+Step 499, Action: 0, Reward: -1, Done: True
+episode  778
+epsilon:  0.01
+Step 499, Action: 3, Reward: -0.1, Done: True
+episode  779
+epsilon:  0.01
+Step 293, Action: 0, Reward: -1, Done: True
+episode  780
+epsilon:  0.01
+Step 499, Action: 1, Reward: -1, Done: True
+episode  781
+epsilon:  0.01
+Step 499, Action: 1, Reward: -0.1, Done: True
+episode  782
+epsilon:  0.01
+Step 499, Action: 2, Reward: -1, Done: True
+episode  783
+epsilon:  0.01
+Step 445, Action: 3, Reward: 10.0, Done: True
+episode  784
+epsilon:  0.01
+Step 499, Action: 0, Reward: -1, Done: True
+episode  785
+epsilon:  0.01
+Step 1, Action: 1, Reward: -0.1, Done: True
+episode  786
+epsilon:  0.01
+Step 499, Action: 1, Reward: -0.1, Done: True
+episode  787
+epsilon:  0.01
+Step 499, Action: 3, Reward: -1, Done: True
+episode  788
+epsilon:  0.01
+Step 499, Action: 1, Reward: -1, Done: True
+episode  789
+epsilon:  0.01
+Step 499, Action: 1, Reward: -1, Done: True
+episode  790
+epsilon:  0.01
+Step 499, Action: 0, Reward: -1, Done: True
+episode  791
+epsilon:  0.01
+Step 417, Action: 1, Reward: -0.1, Done: True
+episode  792
+epsilon:  0.01
+Step 499, Action: 3, Reward: -1, Done: True
+episode  793
+epsilon:  0.01
+Step 499, Action: 1, Reward: -1, Done: True
+episode  794
+epsilon:  0.01
+Step 499, Action: 1, Reward: -1, Done: True
+episode  795
+epsilon:  0.01
+Step 499, Action: 1, Reward: -1, Done: True
+episode  796
+epsilon:  0.01
+Step 499, Action: 3, Reward: -1, Done: True
+episode  797
+epsilon:  0.01
+Step 50, Action: 0, Reward: -0.1, Done: True
+episode  798
+epsilon:  0.01
+Step 499, Action: 3, Reward: -0.1, Done: True
+episode  799
+epsilon:  0.01
+Step 499, Action: 0, Reward: -1, Done: True
+episode  800
+epsilon:  0.01
+Step 499, Action: 3, Reward: -1, Done: True
+episode  801
+epsilon:  0.01
+Step 374, Action: 3, Reward: -0.1, Done: True
+episode  802
+epsilon:  0.01
+Step 297, Action: 1, Reward: -1, Done: True
+episode  803
+epsilon:  0.01
+Step 49, Action: 3, Reward: -0.1, Done: True
+episode  804
+epsilon:  0.01
+Step 499, Action: 0, Reward: -1, Done: True
+episode  805
+epsilon:  0.01
+Step 66, Action: 2, Reward: -1, Done: True
+episode  806
+epsilon:  0.01
+Step 499, Action: 3, Reward: -1, Done: True
+episode  807
+epsilon:  0.01
+Step 65, Action: 3, Reward: -1, Done: True
+episode  808
+epsilon:  0.01
+Step 499, Action: 1, Reward: -1, Done: True
+episode  809
+epsilon:  0.01
+Step 499, Action: 0, Reward: -0.1, Done: True
+episode  810
+epsilon:  0.01
+Step 20, Action: 2, Reward: -0.1, Done: True
+episode  811
+epsilon:  0.01
+Step 1, Action: 2, Reward: -1, Done: True
+episode  812
+epsilon:  0.01
+Step 499, Action: 3, Reward: -1, Done: True
+episode  813
+epsilon:  0.01
+Step 138, Action: 1, Reward: -1, Done: True
+episode  814
+epsilon:  0.01
+Step 499, Action: 3, Reward: -1, Done: True
+episode  815
+epsilon:  0.01
+Step 499, Action: 1, Reward: -1, Done: True
+episode  816
+epsilon:  0.01
+Step 122, Action: 1, Reward: -0.1, Done: True
+episode  817
+epsilon:  0.01
+Step 499, Action: 0, Reward: -0.1, Done: True
+episode  818
+epsilon:  0.01
+Step 499, Action: 1, Reward: -1, Done: True
+episode  819
+epsilon:  0.01
+Step 499, Action: 1, Reward: -1, Done: True
+episode  820
+epsilon:  0.01
+Step 499, Action: 3, Reward: -1, Done: True
+episode  821
+epsilon:  0.01
+Step 499, Action: 1, Reward: -0.1, Done: True
+episode  822
+epsilon:  0.01
+Step 499, Action: 1, Reward: -0.1, Done: True
+episode  823
+epsilon:  0.01
+Step 499, Action: 0, Reward: -0.1, Done: True
+episode  824
+epsilon:  0.01
+Step 213, Action: 3, Reward: -0.1, Done: True
+episode  825
+epsilon:  0.01
+Step 499, Action: 0, Reward: -0.1, Done: True
+episode  826
+epsilon:  0.01
+Step 499, Action: 0, Reward: -1, Done: True
+episode  827
+epsilon:  0.01
+Step 499, Action: 1, Reward: -1, Done: True
+episode  828
+epsilon:  0.01
+Step 499, Action: 1, Reward: -0.1, Done: True
+episode  829
+epsilon:  0.01
+Step 32, Action: 2, Reward: -1, Done: True
+episode  830
+epsilon:  0.01
+Step 499, Action: 3, Reward: -1, Done: True
+episode  831
+epsilon:  0.01
+Step 151, Action: 0, Reward: -0.1, Done: True
+episode  832
+epsilon:  0.01
+Step 499, Action: 0, Reward: -0.1, Done: True
+episode  833
+epsilon:  0.01
+Step 499, Action: 3, Reward: -1, Done: True
+episode  834
+epsilon:  0.01
+Step 499, Action: 0, Reward: -0.1, Done: True
+episode  835
+epsilon:  0.01
+Step 499, Action: 1, Reward: -0.1, Done: True
+episode  836
+epsilon:  0.01
+Step 499, Action: 1, Reward: -0.1, Done: True
+episode  837
+epsilon:  0.01
+Step 499, Action: 3, Reward: -1, Done: True
+episode  838
+epsilon:  0.01
+Step 499, Action: 3, Reward: -1, Done: True
+episode  839
+epsilon:  0.01
+Step 499, Action: 2, Reward: -0.1, Done: True
+episode  840
+epsilon:  0.01
+Step 499, Action: 3, Reward: -0.1, Done: True
+episode  841
+epsilon:  0.01
+Step 499, Action: 1, Reward: -0.1, Done: True
+episode  842
+epsilon:  0.01
+Step 33, Action: 1, Reward: -0.1, Done: True
+episode  843
+epsilon:  0.01
+Step 499, Action: 3, Reward: -1, Done: True
+episode  844
+epsilon:  0.01
+Step 499, Action: 1, Reward: -0.1, Done: True
+episode  845
+epsilon:  0.01
+Step 499, Action: 0, Reward: -0.1, Done: True
+episode  846
+epsilon:  0.01
+Step 499, Action: 3, Reward: -1, Done: True
+episode  847
+epsilon:  0.01
+Step 106, Action: 1, Reward: -0.1, Done: True
+episode  848
+epsilon:  0.01
+Step 499, Action: 0, Reward: -1, Done: True
+episode  849
+epsilon:  0.01
+Step 450, Action: 1, Reward: -0.1, Done: True
+episode  850
+epsilon:  0.01
+Step 273, Action: 0, Reward: -0.1, Done: True
+episode  851
+epsilon:  0.01
+Step 499, Action: 3, Reward: -0.1, Done: True
+episode  852
+epsilon:  0.01
+Step 499, Action: 0, Reward: -1, Done: True
+episode  853
+epsilon:  0.01
+Step 499, Action: 0, Reward: -0.1, Done: True
+episode  854
+epsilon:  0.01
+Step 495, Action: 0, Reward: -0.1, Done: True
+episode  855
+epsilon:  0.01
+Step 499, Action: 1, Reward: -1, Done: True
+episode  856
+epsilon:  0.01
+Step 31, Action: 2, Reward: -1, Done: True
+episode  857
+epsilon:  0.01
+Step 499, Action: 3, Reward: -0.1, Done: True
+episode  858
+epsilon:  0.01
+Step 499, Action: 2, Reward: -1, Done: True
+episode  859
+epsilon:  0.01
+Step 499, Action: 1, Reward: -0.1, Done: True
+episode  860
+epsilon:  0.01
+Step 499, Action: 0, Reward: -1, Done: True
+episode  861
+epsilon:  0.01
+Step 499, Action: 3, Reward: -1, Done: True
+episode  862
+epsilon:  0.01
+Step 230, Action: 3, Reward: -1, Done: True
+episode  863
+epsilon:  0.01
+Step 499, Action: 3, Reward: -1, Done: True
+episode  864
+epsilon:  0.01
+Step 224, Action: 2, Reward: 10.0, Done: True
+episode  865
+epsilon:  0.01
+Step 499, Action: 3, Reward: -1, Done: True
+episode  866
+epsilon:  0.01
+Step 499, Action: 0, Reward: -1, Done: True
+episode  867
+epsilon:  0.01
+Step 125, Action: 1, Reward: -0.1, Done: True
+episode  868
+epsilon:  0.01
+Step 499, Action: 1, Reward: -0.1, Done: True
+episode  869
+epsilon:  0.01
+Step 499, Action: 0, Reward: -1, Done: True
+episode  870
+epsilon:  0.01
+Step 74, Action: 0, Reward: -0.1, Done: True
+episode  871
+epsilon:  0.01
+Step 499, Action: 2, Reward: -0.1, Done: True
+episode  872
+epsilon:  0.01
+Step 211, Action: 1, Reward: -0.1, Done: True
+episode  873
+epsilon:  0.01
+Step 49, Action: 3, Reward: -0.1, Done: True
+episode  874
+epsilon:  0.01
+Step 499, Action: 3, Reward: -1, Done: True
+episode  875
+epsilon:  0.01
+Step 499, Action: 3, Reward: -0.1, Done: True
+episode  876
+epsilon:  0.01
+Step 318, Action: 2, Reward: 10.0, Done: True
+episode  877
+epsilon:  0.01
+Step 499, Action: 0, Reward: -1, Done: True
+episode  878
+epsilon:  0.01
+Step 414, Action: 1, Reward: -0.1, Done: True
+episode  879
+epsilon:  0.01
+Step 499, Action: 3, Reward: -1, Done: True
+episode  880
+epsilon:  0.01
+Step 499, Action: 0, Reward: -1, Done: True
+episode  881
+epsilon:  0.01
+Step 499, Action: 0, Reward: -1, Done: True
+episode  882
+epsilon:  0.01
+Step 499, Action: 0, Reward: -0.1, Done: True
+episode  883
+epsilon:  0.01
+Step 499, Action: 1, Reward: -1, Done: True
+episode  884
+epsilon:  0.01
+Step 499, Action: 2, Reward: -0.1, Done: True
+episode  885
+epsilon:  0.01
+Step 499, Action: 3, Reward: -1, Done: True
+episode  886
+epsilon:  0.01
+Step 499, Action: 0, Reward: -1, Done: True
+episode  887
+epsilon:  0.01
+Step 499, Action: 3, Reward: -0.1, Done: True
+episode  888
+epsilon:  0.01
+Step 499, Action: 3, Reward: -1, Done: True
+episode  889
+epsilon:  0.01
+Step 499, Action: 0, Reward: -1, Done: True
+episode  890
+epsilon:  0.01
+Step 499, Action: 2, Reward: -1, Done: True
+episode  891
+epsilon:  0.01
+Step 499, Action: 3, Reward: -0.1, Done: True
+episode  892
+epsilon:  0.01
+Step 499, Action: 1, Reward: -1, Done: True
+episode  893
+epsilon:  0.01
+Step 499, Action: 3, Reward: -1, Done: True
+episode  894
+epsilon:  0.01
+Step 499, Action: 1, Reward: -0.1, Done: True
+episode  895
+epsilon:  0.01
+Step 499, Action: 0, Reward: -0.1, Done: True
+episode  896
+epsilon:  0.01
+Step 499, Action: 0, Reward: -1, Done: True
+episode  897
+epsilon:  0.01
+Step 499, Action: 0, Reward: -1, Done: True
+episode  898
+epsilon:  0.01
+Step 272, Action: 3, Reward: -0.1, Done: True
+episode  899
+epsilon:  0.01
+Step 499, Action: 3, Reward: -1, Done: True
+episode  900
+epsilon:  0.01
+Step 499, Action: 1, Reward: -1, Done: True
+episode  901
+epsilon:  0.01
+Step 499, Action: 2, Reward: -1, Done: True
+episode  902
+epsilon:  0.01
+Step 259, Action: 3, Reward: -1, Done: True
+episode  903
+epsilon:  0.01
+Step 499, Action: 3, Reward: -0.1, Done: True
+episode  904
+epsilon:  0.01
+Step 37, Action: 0, Reward: -0.1, Done: True
+episode  905
+epsilon:  0.01
+Step 499, Action: 2, Reward: -1, Done: True
+episode  906
+epsilon:  0.01
+Step 499, Action: 3, Reward: -0.1, Done: True
+episode  907
+epsilon:  0.01
+Step 335, Action: 3, Reward: -0.1, Done: True
+episode  908
+epsilon:  0.01
+Step 61, Action: 3, Reward: -1, Done: True
+episode  909
+epsilon:  0.01
+Step 499, Action: 3, Reward: -0.1, Done: True
+episode  910
+epsilon:  0.01
+Step 37, Action: 2, Reward: -1, Done: True
+episode  911
+epsilon:  0.01
+Step 30, Action: 3, Reward: 10.0, Done: True
+episode  912
+epsilon:  0.01
+Step 499, Action: 0, Reward: -1, Done: True
+episode  913
+epsilon:  0.01
+Step 499, Action: 1, Reward: -1, Done: True
+episode  914
+epsilon:  0.01
+Step 499, Action: 2, Reward: -0.1, Done: True
+episode  915
+epsilon:  0.01
+Step 499, Action: 0, Reward: -1, Done: True
+episode  916
+epsilon:  0.01
+Step 499, Action: 3, Reward: -0.1, Done: True
+episode  917
+epsilon:  0.01
+Step 499, Action: 3, Reward: -1, Done: True
+episode  918
+epsilon:  0.01
+Step 49, Action: 3, Reward: -0.1, Done: True
+episode  919
+epsilon:  0.01
+Step 499, Action: 3, Reward: -0.1, Done: True
+episode  920
+epsilon:  0.01
+Step 499, Action: 2, Reward: -1, Done: True
+episode  921
+epsilon:  0.01
+Step 499, Action: 3, Reward: -1, Done: True
+episode  922
+epsilon:  0.01
+Step 499, Action: 2, Reward: -1, Done: True
+episode  923
+epsilon:  0.01
+Step 499, Action: 0, Reward: -0.1, Done: True
+episode  924
+epsilon:  0.01
+Step 499, Action: 2, Reward: -1, Done: True
+episode  925
+epsilon:  0.01
+Step 499, Action: 2, Reward: -0.1, Done: True
+episode  926
+epsilon:  0.01
+Step 499, Action: 1, Reward: -1, Done: True
+episode  927
+epsilon:  0.01
+Step 171, Action: 0, Reward: -0.1, Done: True
+episode  928
+epsilon:  0.01
+Step 499, Action: 0, Reward: -0.1, Done: True
+episode  929
+epsilon:  0.01
+Step 499, Action: 0, Reward: -0.1, Done: True
+episode  930
+epsilon:  0.01
+Step 499, Action: 1, Reward: -0.1, Done: True
+episode  931
+epsilon:  0.01
+Step 499, Action: 3, Reward: -1, Done: True
+episode  932
+epsilon:  0.01
+Step 63, Action: 2, Reward: -1, Done: True
+episode  933
+epsilon:  0.01
+Step 499, Action: 0, Reward: -0.1, Done: True
+episode  934
+epsilon:  0.01
+Step 499, Action: 3, Reward: -0.1, Done: True
+episode  935
+epsilon:  0.01
+Step 499, Action: 1, Reward: -1, Done: True
+episode  936
+epsilon:  0.01
+Step 499, Action: 3, Reward: -0.1, Done: True
+episode  937
+epsilon:  0.01
+Step 499, Action: 1, Reward: -1, Done: True
+episode  938
+epsilon:  0.01
+Step 499, Action: 1, Reward: -0.1, Done: True
+episode  939
+epsilon:  0.01
+Step 357, Action: 2, Reward: -1, Done: True
+episode  940
+epsilon:  0.01
+Step 142, Action: 1, Reward: 10.0, Done: True
+episode  941
+epsilon:  0.01
+Step 4, Action: 2, Reward: -1, Done: True
+episode  942
+epsilon:  0.01
+Step 410, Action: 1, Reward: -0.1, Done: True
+episode  943
+epsilon:  0.01
+Step 439, Action: 1, Reward: -0.1, Done: True
+episode  944
+epsilon:  0.01
+Step 499, Action: 3, Reward: -0.1, Done: True
+episode  945
+epsilon:  0.01
+Step 499, Action: 3, Reward: -0.1, Done: True
+episode  946
+epsilon:  0.01
+Step 499, Action: 1, Reward: -1, Done: True
+episode  947
+epsilon:  0.01
+Step 499, Action: 0, Reward: -0.1, Done: True
+episode  948
+epsilon:  0.01
+Step 29, Action: 0, Reward: 10.0, Done: True
+episode  949
+epsilon:  0.01
+Step 499, Action: 2, Reward: -0.1, Done: True
+episode  950
+epsilon:  0.01
+Step 499, Action: 1, Reward: -1, Done: True
+episode  951
+epsilon:  0.01
+Step 127, Action: 0, Reward: -0.1, Done: True
+episode  952
+epsilon:  0.01
+Step 499, Action: 3, Reward: -0.1, Done: True
+episode  953
+epsilon:  0.01
+Step 29, Action: 1, Reward: -1, Done: True
+episode  954
+epsilon:  0.01
+Step 252, Action: 1, Reward: -0.1, Done: True
+episode  955
+epsilon:  0.01
+Step 499, Action: 1, Reward: -1, Done: True
+episode  956
+epsilon:  0.01
+Step 499, Action: 3, Reward: -1, Done: True
+episode  957
+epsilon:  0.01
+Step 499, Action: 1, Reward: -1, Done: True
+episode  958
+epsilon:  0.01
+Step 499, Action: 0, Reward: -0.1, Done: True
+episode  959
+epsilon:  0.01
+Step 499, Action: 1, Reward: -1, Done: True
+episode  960
+epsilon:  0.01
+Step 499, Action: 2, Reward: -0.1, Done: True
+episode  961
+epsilon:  0.01
+Step 47, Action: 3, Reward: -0.1, Done: True
+episode  962
+epsilon:  0.01
+Step 499, Action: 0, Reward: -0.1, Done: True
+episode  963
+epsilon:  0.01
+Step 499, Action: 0, Reward: -1, Done: True
+episode  964
+epsilon:  0.01
+Step 499, Action: 0, Reward: -0.1, Done: True
+episode  965
+epsilon:  0.01
+Step 499, Action: 3, Reward: -0.1, Done: True
+episode  966
+epsilon:  0.01
+Step 499, Action: 1, Reward: -0.1, Done: True
+episode  967
+epsilon:  0.01
+Step 499, Action: 0, Reward: -0.1, Done: True
+episode  968
+epsilon:  0.01
+Step 499, Action: 0, Reward: -1, Done: True
+episode  969
+epsilon:  0.01
+Step 499, Action: 1, Reward: -0.1, Done: True
+episode  970
+epsilon:  0.01
+Step 499, Action: 1, Reward: -0.1, Done: True
+episode  971
+epsilon:  0.01
+Step 499, Action: 2, Reward: -0.1, Done: True
+episode  972
+epsilon:  0.01
+Step 499, Action: 0, Reward: -1, Done: True
+episode  973
+epsilon:  0.01
+Step 499, Action: 1, Reward: -1, Done: True
+episode  974
+epsilon:  0.01
+Step 499, Action: 1, Reward: -0.1, Done: True
+episode  975
+epsilon:  0.01
+Step 24, Action: 3, Reward: -1, Done: True
+episode  976
+epsilon:  0.01
+Step 86, Action: 0, Reward: -0.1, Done: True
+episode  977
+epsilon:  0.01
+Step 67, Action: 2, Reward: -1, Done: True
+episode  978
+epsilon:  0.01
+Step 499, Action: 3, Reward: -0.1, Done: True
+episode  979
+epsilon:  0.01
+Step 499, Action: 1, Reward: -1, Done: True
+episode  980
+epsilon:  0.01
+Step 499, Action: 0, Reward: -1, Done: True
+episode  981
+epsilon:  0.01
+Step 499, Action: 0, Reward: -1, Done: True
+episode  982
+epsilon:  0.01
+Step 223, Action: 1, Reward: -0.1, Done: True
+episode  983
+epsilon:  0.01
+Step 499, Action: 3, Reward: -1, Done: True
+episode  984
+epsilon:  0.01
+Step 499, Action: 1, Reward: -1, Done: True
+episode  985
+epsilon:  0.01
+Step 132, Action: 0, Reward: -0.1, Done: True
+episode  986
+epsilon:  0.01
+Step 14, Action: 2, Reward: -1, Done: True
+episode  987
+epsilon:  0.01
+Step 499, Action: 3, Reward: -1, Done: True
+episode  988
+epsilon:  0.01
+Step 499, Action: 1, Reward: -0.1, Done: True
+episode  989
+epsilon:  0.01
+Step 35, Action: 1, Reward: 10.0, Done: True
+episode  990
+epsilon:  0.01
+Step 499, Action: 3, Reward: -1, Done: True
+episode  991
+epsilon:  0.01
+Step 499, Action: 1, Reward: -1, Done: True
+episode  992
+epsilon:  0.01
+Step 499, Action: 3, Reward: -1, Done: True
+episode  993
+epsilon:  0.01
+Step 499, Action: 1, Reward: -1, Done: True
+episode  994
+epsilon:  0.01
+Step 88, Action: 1, Reward: -0.1, Done: True
+episode  995
+epsilon:  0.01
+Step 499, Action: 3, Reward: -1, Done: True
+episode  996
+epsilon:  0.01
+Step 499, Action: 3, Reward: -1, Done: True
+episode  997
+epsilon:  0.01
+Step 119, Action: 2, Reward: -1, Done: True
+episode  998
+epsilon:  0.01
+Step 499, Action: 3, Reward: -1, Done: True
+episode  999
+epsilon:  0.01
+Step 499, Action: 1, Reward: -1, Done: True
+
+Process finished with exit code 0

@@ -1,0 +1,2000 @@
+episode  0
+Step 425, Action: 4, Reward: -1, Done: True
+episode  1
+Step 115, Action: 3, Reward: 10.0, Done: True
+episode  2
+Step 13, Action: 6, Reward: -1, Done: True
+episode  3
+Step 20, Action: 11, Reward: -1, Done: True
+episode  4
+Step 35, Action: 11, Reward: -1, Done: True
+episode  5
+Step 147, Action: 13, Reward: -1, Done: True
+episode  6
+Step 53, Action: 11, Reward: 10.0, Done: True
+episode  7
+Step 177, Action: 4, Reward: -1, Done: True
+episode  8
+Step 278, Action: 13, Reward: -1, Done: True
+episode  9
+Step 56, Action: 2, Reward: 1, Done: True
+episode  10
+Step 68, Action: 5, Reward: 10.0, Done: True
+episode  11
+Step 479, Action: 10, Reward: -1, Done: True
+episode  12
+Step 16, Action: 13, Reward: -1, Done: True
+episode  13
+Step 151, Action: 13, Reward: 10.0, Done: True
+episode  14
+Step 68, Action: 11, Reward: -1, Done: True
+episode  15
+Step 334, Action: 0, Reward: -1, Done: True
+episode  16
+Step 224, Action: 3, Reward: -1, Done: True
+episode  17
+Step 37, Action: 0, Reward: -1, Done: True
+episode  18
+Step 134, Action: 7, Reward: -1, Done: True
+episode  19
+Step 3, Action: 10, Reward: -1, Done: True
+episode  20
+Step 4, Action: 2, Reward: 1, Done: True
+episode  21
+Step 20, Action: 1, Reward: -1, Done: True
+episode  22
+Step 1, Action: 1, Reward: -1, Done: True
+episode  23
+Step 245, Action: 6, Reward: -1, Done: True
+episode  24
+Step 391, Action: 7, Reward: -1, Done: True
+episode  25
+Step 174, Action: 6, Reward: 10.0, Done: True
+episode  26
+Step 141, Action: 4, Reward: 10.0, Done: True
+episode  27
+Step 117, Action: 1, Reward: -1, Done: True
+episode  28
+Step 122, Action: 14, Reward: -1, Done: True
+episode  29
+Step 169, Action: 13, Reward: -1, Done: True
+episode  30
+Step 67, Action: 3, Reward: 10.0, Done: True
+episode  31
+Step 32, Action: 3, Reward: -1, Done: True
+episode  32
+Step 89, Action: 8, Reward: -1, Done: True
+episode  33
+Step 167, Action: 3, Reward: -1, Done: True
+episode  34
+Step 206, Action: 8, Reward: -1, Done: True
+episode  35
+Step 13, Action: 12, Reward: -1, Done: True
+episode  36
+Step 26, Action: 8, Reward: 10.0, Done: True
+episode  37
+Step 6, Action: 12, Reward: -1, Done: True
+episode  38
+Step 1, Action: 13, Reward: -1, Done: True
+episode  39
+Step 84, Action: 7, Reward: 10.0, Done: True
+episode  40
+Step 99, Action: 8, Reward: 10.0, Done: True
+episode  41
+Step 237, Action: 2, Reward: 1, Done: True
+episode  42
+Step 87, Action: 10, Reward: -1, Done: True
+episode  43
+Step 107, Action: 1, Reward: -1, Done: True
+episode  44
+Step 235, Action: 0, Reward: -1, Done: True
+episode  45
+Step 68, Action: 3, Reward: 10.0, Done: True
+episode  46
+Step 99, Action: 1, Reward: -1, Done: True
+episode  47
+Step 19, Action: 3, Reward: -1, Done: True
+episode  48
+Step 379, Action: 14, Reward: -1, Done: True
+episode  49
+Step 51, Action: 3, Reward: -1, Done: True
+episode  50
+Step 203, Action: 1, Reward: 10.0, Done: True
+episode  51
+Step 163, Action: 14, Reward: -1, Done: True
+episode  52
+Step 1, Action: 8, Reward: -1, Done: True
+episode  53
+Step 183, Action: 5, Reward: -1, Done: True
+episode  54
+Step 55, Action: 11, Reward: -1, Done: True
+episode  55
+Step 150, Action: 8, Reward: -1, Done: True
+episode  56
+Step 153, Action: 3, Reward: -1, Done: True
+episode  57
+Step 161, Action: 5, Reward: -1, Done: True
+episode  58
+Step 297, Action: 9, Reward: 10.0, Done: True
+episode  59
+Step 44, Action: 11, Reward: -1, Done: True
+episode  60
+Step 167, Action: 6, Reward: -1, Done: True
+episode  61
+Step 91, Action: 3, Reward: 10.0, Done: True
+episode  62
+Step 202, Action: 4, Reward: -1, Done: True
+episode  63
+Step 42, Action: 14, Reward: 10.0, Done: True
+episode  64
+Step 265, Action: 0, Reward: -1, Done: True
+episode  65
+Step 132, Action: 13, Reward: -1, Done: True
+episode  66
+Step 35, Action: 4, Reward: 10.0, Done: True
+episode  67
+Step 208, Action: 13, Reward: -1, Done: True
+episode  68
+Step 278, Action: 2, Reward: 1, Done: True
+episode  69
+Step 157, Action: 11, Reward: -1, Done: True
+episode  70
+Step 210, Action: 3, Reward: -1, Done: True
+episode  71
+Step 87, Action: 10, Reward: -1, Done: True
+episode  72
+Step 130, Action: 1, Reward: -1, Done: True
+episode  73
+Step 23, Action: 0, Reward: -1, Done: True
+episode  74
+Step 138, Action: 13, Reward: -1, Done: True
+episode  75
+Step 81, Action: 10, Reward: -1, Done: True
+episode  76
+Step 113, Action: 8, Reward: -1, Done: True
+episode  77
+Step 122, Action: 11, Reward: 10.0, Done: True
+episode  78
+Step 40, Action: 9, Reward: -1, Done: True
+episode  79
+Step 139, Action: 0, Reward: 10.0, Done: True
+episode  80
+Step 89, Action: 5, Reward: -1, Done: True
+episode  81
+Step 118, Action: 3, Reward: -1, Done: True
+episode  82
+Step 70, Action: 1, Reward: -1, Done: True
+episode  83
+Step 56, Action: 0, Reward: -1, Done: True
+episode  84
+Step 175, Action: 2, Reward: 1, Done: True
+episode  85
+Step 102, Action: 12, Reward: -1, Done: True
+episode  86
+Step 45, Action: 14, Reward: -1, Done: True
+episode  87
+Step 274, Action: 7, Reward: 10.0, Done: True
+episode  88
+Step 44, Action: 10, Reward: -1, Done: True
+episode  89
+Step 32, Action: 9, Reward: -1, Done: True
+episode  90
+Step 126, Action: 13, Reward: -1, Done: True
+episode  91
+Step 201, Action: 6, Reward: -1, Done: True
+episode  92
+Step 24, Action: 12, Reward: -1, Done: True
+episode  93
+Step 143, Action: 8, Reward: -1, Done: True
+episode  94
+Step 257, Action: 8, Reward: 10.0, Done: True
+episode  95
+Step 45, Action: 10, Reward: -1, Done: True
+episode  96
+Step 2, Action: 8, Reward: -1, Done: True
+episode  97
+Step 79, Action: 8, Reward: -1, Done: True
+episode  98
+Step 270, Action: 7, Reward: -1, Done: True
+episode  99
+Step 66, Action: 6, Reward: -1, Done: True
+episode  100
+Step 37, Action: 3, Reward: -1, Done: True
+episode  101
+Step 62, Action: 2, Reward: 1, Done: True
+episode  102
+Step 251, Action: 2, Reward: 1, Done: True
+episode  103
+Step 205, Action: 0, Reward: -1, Done: True
+episode  104
+Step 36, Action: 7, Reward: -1, Done: True
+episode  105
+Step 171, Action: 7, Reward: 10.0, Done: True
+episode  106
+Step 59, Action: 4, Reward: 10.0, Done: True
+episode  107
+Step 152, Action: 8, Reward: -1, Done: True
+episode  108
+Step 56, Action: 0, Reward: -1, Done: True
+episode  109
+Step 9, Action: 13, Reward: -1, Done: True
+episode  110
+Step 2, Action: 4, Reward: -1, Done: True
+episode  111
+Step 89, Action: 8, Reward: -1, Done: True
+episode  112
+Step 175, Action: 12, Reward: -1, Done: True
+episode  113
+Step 342, Action: 7, Reward: 10.0, Done: True
+episode  114
+Step 16, Action: 9, Reward: -1, Done: True
+episode  115
+Step 79, Action: 9, Reward: -1, Done: True
+episode  116
+Step 23, Action: 7, Reward: -1, Done: True
+episode  117
+Step 27, Action: 11, Reward: -1, Done: True
+episode  118
+Step 50, Action: 11, Reward: -1, Done: True
+episode  119
+Step 129, Action: 3, Reward: -1, Done: True
+episode  120
+Step 103, Action: 12, Reward: -1, Done: True
+episode  121
+Step 43, Action: 8, Reward: -1, Done: True
+episode  122
+Step 178, Action: 5, Reward: 10.0, Done: True
+episode  123
+Step 100, Action: 13, Reward: -1, Done: True
+episode  124
+Step 275, Action: 1, Reward: -1, Done: True
+episode  125
+Step 180, Action: 10, Reward: 10.0, Done: True
+episode  126
+Step 195, Action: 13, Reward: -1, Done: True
+episode  127
+Step 118, Action: 6, Reward: -1, Done: True
+episode  128
+Step 118, Action: 6, Reward: -1, Done: True
+episode  129
+Step 53, Action: 2, Reward: 1, Done: True
+episode  130
+Step 10, Action: 4, Reward: -1, Done: True
+episode  131
+Step 191, Action: 6, Reward: -1, Done: True
+episode  132
+Step 139, Action: 12, Reward: -1, Done: True
+episode  133
+Step 8, Action: 11, Reward: -1, Done: True
+episode  134
+Step 66, Action: 9, Reward: -1, Done: True
+episode  135
+Step 96, Action: 5, Reward: -1, Done: True
+episode  136
+Step 18, Action: 10, Reward: 10.0, Done: True
+episode  137
+Step 72, Action: 12, Reward: 10.0, Done: True
+episode  138
+Step 1, Action: 14, Reward: -1, Done: True
+episode  139
+Step 38, Action: 13, Reward: 10.0, Done: True
+episode  140
+Step 80, Action: 2, Reward: 1, Done: True
+episode  141
+Step 77, Action: 12, Reward: -1, Done: True
+episode  142
+Step 258, Action: 2, Reward: 1, Done: True
+episode  143
+Step 177, Action: 8, Reward: -1, Done: True
+episode  144
+Step 321, Action: 0, Reward: 10.0, Done: True
+episode  145
+Step 120, Action: 1, Reward: -1, Done: True
+episode  146
+Step 95, Action: 2, Reward: 1, Done: True
+episode  147
+Step 254, Action: 3, Reward: 10.0, Done: True
+episode  148
+Step 23, Action: 13, Reward: 10.0, Done: True
+episode  149
+Step 92, Action: 5, Reward: -1, Done: True
+episode  150
+Step 187, Action: 1, Reward: -1, Done: True
+episode  151
+Step 255, Action: 3, Reward: -1, Done: True
+episode  152
+Step 1, Action: 5, Reward: -1, Done: True
+episode  153
+Step 132, Action: 2, Reward: 1, Done: True
+episode  154
+Step 264, Action: 6, Reward: 10.0, Done: True
+episode  155
+Step 68, Action: 13, Reward: -1, Done: True
+episode  156
+Step 50, Action: 1, Reward: -1, Done: True
+episode  157
+Step 124, Action: 1, Reward: -1, Done: True
+episode  158
+Step 148, Action: 5, Reward: -1, Done: True
+episode  159
+Step 336, Action: 9, Reward: -1, Done: True
+episode  160
+Step 52, Action: 1, Reward: -1, Done: True
+episode  161
+Step 485, Action: 3, Reward: -1, Done: True
+episode  162
+Step 168, Action: 7, Reward: -1, Done: True
+episode  163
+Step 43, Action: 6, Reward: 10.0, Done: True
+episode  164
+Step 28, Action: 5, Reward: -1, Done: True
+episode  165
+Step 8, Action: 8, Reward: -1, Done: True
+episode  166
+Step 100, Action: 7, Reward: -1, Done: True
+episode  167
+Step 136, Action: 1, Reward: -1, Done: True
+episode  168
+Step 34, Action: 13, Reward: 10.0, Done: True
+episode  169
+Step 126, Action: 9, Reward: -1, Done: True
+episode  170
+Step 20, Action: 2, Reward: 1, Done: True
+episode  171
+Step 199, Action: 1, Reward: -1, Done: True
+episode  172
+Step 67, Action: 4, Reward: -1, Done: True
+episode  173
+Step 286, Action: 8, Reward: -1, Done: True
+episode  174
+Step 499, Action: 1, Reward: -1, Done: True
+episode  175
+Step 62, Action: 4, Reward: 10.0, Done: True
+episode  176
+Step 152, Action: 5, Reward: 10.0, Done: True
+episode  177
+Step 267, Action: 11, Reward: -1, Done: True
+episode  178
+Step 44, Action: 6, Reward: -1, Done: True
+episode  179
+Step 29, Action: 10, Reward: -1, Done: True
+episode  180
+Step 429, Action: 13, Reward: -1, Done: True
+episode  181
+Step 56, Action: 9, Reward: 10.0, Done: True
+episode  182
+Step 43, Action: 8, Reward: -1, Done: True
+episode  183
+Step 273, Action: 0, Reward: 10.0, Done: True
+episode  184
+Step 75, Action: 14, Reward: -1, Done: True
+episode  185
+Step 150, Action: 6, Reward: -1, Done: True
+episode  186
+Step 47, Action: 14, Reward: 10.0, Done: True
+episode  187
+Step 132, Action: 12, Reward: 10.0, Done: True
+episode  188
+Step 9, Action: 13, Reward: -1, Done: True
+episode  189
+Step 135, Action: 14, Reward: -1, Done: True
+episode  190
+Step 48, Action: 12, Reward: -1, Done: True
+episode  191
+Step 115, Action: 9, Reward: -1, Done: True
+episode  192
+Step 107, Action: 0, Reward: -1, Done: True
+episode  193
+Step 137, Action: 2, Reward: 1, Done: True
+episode  194
+Step 184, Action: 1, Reward: -1, Done: True
+episode  195
+Step 297, Action: 6, Reward: -1, Done: True
+episode  196
+Step 7, Action: 6, Reward: -1, Done: True
+episode  197
+Step 55, Action: 13, Reward: -1, Done: True
+episode  198
+Step 64, Action: 7, Reward: -1, Done: True
+episode  199
+Step 44, Action: 4, Reward: 10.0, Done: True
+episode  200
+Step 102, Action: 10, Reward: -1, Done: True
+episode  201
+Step 1, Action: 11, Reward: -1, Done: True
+episode  202
+Step 53, Action: 6, Reward: -1, Done: True
+episode  203
+Step 65, Action: 6, Reward: 10.0, Done: True
+episode  204
+Step 375, Action: 14, Reward: -1, Done: True
+episode  205
+Step 296, Action: 14, Reward: -1, Done: True
+episode  206
+Step 78, Action: 8, Reward: -1, Done: True
+episode  207
+Step 50, Action: 3, Reward: 10.0, Done: True
+episode  208
+Step 150, Action: 4, Reward: -1, Done: True
+episode  209
+Step 146, Action: 3, Reward: -1, Done: True
+episode  210
+Step 1, Action: 0, Reward: -1, Done: True
+episode  211
+Step 20, Action: 8, Reward: 10.0, Done: True
+episode  212
+Step 129, Action: 5, Reward: -1, Done: True
+episode  213
+Step 16, Action: 2, Reward: 1, Done: True
+episode  214
+Step 50, Action: 2, Reward: 1, Done: True
+episode  215
+Step 60, Action: 8, Reward: 10.0, Done: True
+episode  216
+Step 102, Action: 1, Reward: -1, Done: True
+episode  217
+Step 248, Action: 9, Reward: -1, Done: True
+episode  218
+Step 118, Action: 10, Reward: -1, Done: True
+episode  219
+Step 454, Action: 11, Reward: 10.0, Done: True
+episode  220
+Step 78, Action: 14, Reward: 10.0, Done: True
+episode  221
+Step 175, Action: 8, Reward: -1, Done: True
+episode  222
+Step 34, Action: 11, Reward: 10.0, Done: True
+episode  223
+Step 125, Action: 2, Reward: 1, Done: True
+episode  224
+Step 23, Action: 7, Reward: -1, Done: True
+episode  225
+Step 67, Action: 2, Reward: 1, Done: True
+episode  226
+Step 69, Action: 12, Reward: -1, Done: True
+episode  227
+Step 328, Action: 3, Reward: -1, Done: True
+episode  228
+Step 201, Action: 6, Reward: -1, Done: True
+episode  229
+Step 474, Action: 6, Reward: 10.0, Done: True
+episode  230
+Step 34, Action: 13, Reward: -1, Done: True
+episode  231
+Step 13, Action: 4, Reward: -1, Done: True
+episode  232
+Step 302, Action: 11, Reward: 10.0, Done: True
+episode  233
+Step 225, Action: 2, Reward: 1, Done: True
+episode  234
+Step 349, Action: 3, Reward: 10.0, Done: True
+episode  235
+Step 80, Action: 11, Reward: 10.0, Done: True
+episode  236
+Step 14, Action: 10, Reward: -1, Done: True
+episode  237
+Step 18, Action: 2, Reward: 1, Done: True
+episode  238
+Step 190, Action: 6, Reward: -1, Done: True
+episode  239
+Step 89, Action: 0, Reward: -1, Done: True
+episode  240
+Step 8, Action: 1, Reward: -1, Done: True
+episode  241
+Step 80, Action: 7, Reward: 10.0, Done: True
+episode  242
+Step 138, Action: 10, Reward: 10.0, Done: True
+episode  243
+Step 24, Action: 0, Reward: -1, Done: True
+episode  244
+Step 63, Action: 6, Reward: 10.0, Done: True
+episode  245
+Step 167, Action: 13, Reward: -1, Done: True
+episode  246
+Step 115, Action: 9, Reward: -1, Done: True
+episode  247
+Step 199, Action: 13, Reward: -1, Done: True
+episode  248
+Step 23, Action: 4, Reward: -1, Done: True
+episode  249
+Step 197, Action: 10, Reward: 10.0, Done: True
+episode  250
+Step 55, Action: 1, Reward: -1, Done: True
+episode  251
+Step 152, Action: 2, Reward: 1, Done: True
+episode  252
+Step 161, Action: 6, Reward: -1, Done: True
+episode  253
+Step 41, Action: 13, Reward: -1, Done: True
+episode  254
+Step 28, Action: 7, Reward: -1, Done: True
+episode  255
+Step 119, Action: 1, Reward: -1, Done: True
+episode  256
+Step 199, Action: 1, Reward: -1, Done: True
+episode  257
+Step 116, Action: 13, Reward: 10.0, Done: True
+episode  258
+Step 40, Action: 9, Reward: -1, Done: True
+episode  259
+Step 142, Action: 6, Reward: -1, Done: True
+episode  260
+Step 34, Action: 11, Reward: -1, Done: True
+episode  261
+Step 29, Action: 6, Reward: -1, Done: True
+episode  262
+Step 36, Action: 1, Reward: -1, Done: True
+episode  263
+Step 38, Action: 11, Reward: 10.0, Done: True
+episode  264
+Step 260, Action: 10, Reward: 10.0, Done: True
+episode  265
+Step 4, Action: 14, Reward: -1, Done: True
+episode  266
+Step 319, Action: 7, Reward: -1, Done: True
+episode  267
+Step 45, Action: 9, Reward: 10.0, Done: True
+episode  268
+Step 238, Action: 8, Reward: -1, Done: True
+episode  269
+Step 104, Action: 6, Reward: -1, Done: True
+episode  270
+Step 20, Action: 11, Reward: -1, Done: True
+episode  271
+Step 95, Action: 3, Reward: -1, Done: True
+episode  272
+Step 139, Action: 0, Reward: -1, Done: True
+episode  273
+Step 34, Action: 2, Reward: 1, Done: True
+episode  274
+Step 3, Action: 7, Reward: -1, Done: True
+episode  275
+Step 69, Action: 4, Reward: 10.0, Done: True
+episode  276
+Step 109, Action: 0, Reward: -1, Done: True
+episode  277
+Step 155, Action: 10, Reward: -1, Done: True
+episode  278
+Step 38, Action: 7, Reward: -1, Done: True
+episode  279
+Step 42, Action: 4, Reward: -1, Done: True
+episode  280
+Step 142, Action: 5, Reward: -1, Done: True
+episode  281
+Step 102, Action: 1, Reward: -1, Done: True
+episode  282
+Step 131, Action: 1, Reward: 10.0, Done: True
+episode  283
+Step 39, Action: 12, Reward: -1, Done: True
+episode  284
+Step 190, Action: 14, Reward: -1, Done: True
+episode  285
+Step 45, Action: 12, Reward: -1, Done: True
+episode  286
+Step 101, Action: 3, Reward: 10.0, Done: True
+episode  287
+Step 59, Action: 14, Reward: -1, Done: True
+episode  288
+Step 126, Action: 9, Reward: 10.0, Done: True
+episode  289
+Step 499, Action: 3, Reward: -1, Done: True
+episode  290
+Step 102, Action: 6, Reward: 10.0, Done: True
+episode  291
+Step 43, Action: 1, Reward: -1, Done: True
+episode  292
+Step 29, Action: 12, Reward: -1, Done: True
+episode  293
+Step 17, Action: 14, Reward: -1, Done: True
+episode  294
+Step 93, Action: 4, Reward: -1, Done: True
+episode  295
+Step 51, Action: 7, Reward: -1, Done: True
+episode  296
+Step 108, Action: 2, Reward: 1, Done: True
+episode  297
+Step 3, Action: 4, Reward: -1, Done: True
+episode  298
+Step 262, Action: 2, Reward: 1, Done: True
+episode  299
+Step 33, Action: 11, Reward: 10.0, Done: True
+episode  300
+Step 161, Action: 3, Reward: -1, Done: True
+episode  301
+Step 25, Action: 10, Reward: -1, Done: True
+episode  302
+Step 275, Action: 2, Reward: 1, Done: True
+episode  303
+Step 90, Action: 11, Reward: 10.0, Done: True
+episode  304
+Step 311, Action: 3, Reward: -1, Done: True
+episode  305
+Step 419, Action: 7, Reward: 10.0, Done: True
+episode  306
+Step 181, Action: 10, Reward: -1, Done: True
+episode  307
+Step 68, Action: 1, Reward: -1, Done: True
+episode  308
+Step 3, Action: 13, Reward: -1, Done: True
+episode  309
+Step 76, Action: 7, Reward: 10.0, Done: True
+episode  310
+Step 204, Action: 8, Reward: -1, Done: True
+episode  311
+Step 102, Action: 2, Reward: 1, Done: True
+episode  312
+Step 154, Action: 5, Reward: -1, Done: True
+episode  313
+Step 88, Action: 14, Reward: -1, Done: True
+episode  314
+Step 45, Action: 3, Reward: -1, Done: True
+episode  315
+Step 71, Action: 9, Reward: -1, Done: True
+episode  316
+Step 5, Action: 1, Reward: -1, Done: True
+episode  317
+Step 67, Action: 4, Reward: -1, Done: True
+episode  318
+Step 67, Action: 1, Reward: -1, Done: True
+episode  319
+Step 98, Action: 14, Reward: 10.0, Done: True
+episode  320
+Step 20, Action: 1, Reward: 10.0, Done: True
+episode  321
+Step 37, Action: 3, Reward: -1, Done: True
+episode  322
+Step 194, Action: 8, Reward: 10.0, Done: True
+episode  323
+Step 41, Action: 12, Reward: 10.0, Done: True
+episode  324
+Step 16, Action: 10, Reward: -1, Done: True
+episode  325
+Step 56, Action: 4, Reward: -1, Done: True
+episode  326
+Step 64, Action: 0, Reward: -1, Done: True
+episode  327
+Step 13, Action: 13, Reward: -1, Done: True
+episode  328
+Step 94, Action: 7, Reward: -1, Done: True
+episode  329
+Step 238, Action: 3, Reward: -1, Done: True
+episode  330
+Step 68, Action: 8, Reward: -1, Done: True
+episode  331
+Step 52, Action: 5, Reward: -1, Done: True
+episode  332
+Step 43, Action: 10, Reward: -1, Done: True
+episode  333
+Step 62, Action: 14, Reward: -1, Done: True
+episode  334
+Step 129, Action: 9, Reward: 10.0, Done: True
+episode  335
+Step 113, Action: 0, Reward: 10.0, Done: True
+episode  336
+Step 350, Action: 10, Reward: 10.0, Done: True
+episode  337
+Step 174, Action: 9, Reward: 10.0, Done: True
+episode  338
+Step 78, Action: 11, Reward: -1, Done: True
+episode  339
+Step 171, Action: 8, Reward: -1, Done: True
+episode  340
+Step 132, Action: 9, Reward: -1, Done: True
+episode  341
+Step 149, Action: 14, Reward: -1, Done: True
+episode  342
+Step 112, Action: 1, Reward: -1, Done: True
+episode  343
+Step 181, Action: 9, Reward: -1, Done: True
+episode  344
+Step 188, Action: 7, Reward: 10.0, Done: True
+episode  345
+Step 2, Action: 11, Reward: -1, Done: True
+episode  346
+Step 98, Action: 3, Reward: -1, Done: True
+episode  347
+Step 25, Action: 3, Reward: -1, Done: True
+episode  348
+Step 174, Action: 0, Reward: -1, Done: True
+episode  349
+Step 499, Action: 10, Reward: -1, Done: True
+episode  350
+Step 208, Action: 10, Reward: 10.0, Done: True
+episode  351
+Step 119, Action: 5, Reward: 10.0, Done: True
+episode  352
+Step 154, Action: 11, Reward: -1, Done: True
+episode  353
+Step 252, Action: 3, Reward: -1, Done: True
+episode  354
+Step 51, Action: 11, Reward: -1, Done: True
+episode  355
+Step 492, Action: 11, Reward: 10.0, Done: True
+episode  356
+Step 93, Action: 1, Reward: 10.0, Done: True
+episode  357
+Step 296, Action: 3, Reward: 10.0, Done: True
+episode  358
+Step 495, Action: 9, Reward: -1, Done: True
+episode  359
+Step 2, Action: 1, Reward: -1, Done: True
+episode  360
+Step 13, Action: 2, Reward: 1, Done: True
+episode  361
+Step 197, Action: 13, Reward: -1, Done: True
+episode  362
+Step 305, Action: 13, Reward: -1, Done: True
+episode  363
+Step 8, Action: 2, Reward: 1, Done: True
+episode  364
+Step 134, Action: 14, Reward: 10.0, Done: True
+episode  365
+Step 131, Action: 2, Reward: 1, Done: True
+episode  366
+Step 49, Action: 11, Reward: -1, Done: True
+episode  367
+Step 1, Action: 0, Reward: -1, Done: True
+episode  368
+Step 90, Action: 8, Reward: 10.0, Done: True
+episode  369
+Step 295, Action: 1, Reward: 10.0, Done: True
+episode  370
+Step 113, Action: 6, Reward: -1, Done: True
+episode  371
+Step 170, Action: 1, Reward: 10.0, Done: True
+episode  372
+Step 203, Action: 3, Reward: 10.0, Done: True
+episode  373
+Step 101, Action: 0, Reward: 10.0, Done: True
+episode  374
+Step 35, Action: 12, Reward: 10.0, Done: True
+episode  375
+Step 179, Action: 0, Reward: -1, Done: True
+episode  376
+Step 43, Action: 4, Reward: -1, Done: True
+episode  377
+Step 290, Action: 9, Reward: -1, Done: True
+episode  378
+Step 82, Action: 4, Reward: -1, Done: True
+episode  379
+Step 71, Action: 13, Reward: -1, Done: True
+episode  380
+Step 93, Action: 2, Reward: 1, Done: True
+episode  381
+Step 198, Action: 7, Reward: 10.0, Done: True
+episode  382
+Step 135, Action: 10, Reward: -1, Done: True
+episode  383
+Step 173, Action: 13, Reward: -1, Done: True
+episode  384
+Step 94, Action: 1, Reward: -1, Done: True
+episode  385
+Step 228, Action: 11, Reward: 10.0, Done: True
+episode  386
+Step 79, Action: 5, Reward: -1, Done: True
+episode  387
+Step 103, Action: 0, Reward: -1, Done: True
+episode  388
+Step 45, Action: 9, Reward: 10.0, Done: True
+episode  389
+Step 17, Action: 0, Reward: -1, Done: True
+episode  390
+Step 26, Action: 9, Reward: -1, Done: True
+episode  391
+Step 16, Action: 6, Reward: -1, Done: True
+episode  392
+Step 364, Action: 1, Reward: -1, Done: True
+episode  393
+Step 24, Action: 13, Reward: 10.0, Done: True
+episode  394
+Step 53, Action: 8, Reward: -1, Done: True
+episode  395
+Step 73, Action: 5, Reward: -1, Done: True
+episode  396
+Step 72, Action: 12, Reward: 10.0, Done: True
+episode  397
+Step 119, Action: 12, Reward: -1, Done: True
+episode  398
+Step 58, Action: 6, Reward: -1, Done: True
+episode  399
+Step 174, Action: 2, Reward: 1, Done: True
+episode  400
+Step 99, Action: 10, Reward: -1, Done: True
+episode  401
+Step 102, Action: 11, Reward: -1, Done: True
+episode  402
+Step 220, Action: 9, Reward: 10.0, Done: True
+episode  403
+Step 29, Action: 8, Reward: -1, Done: True
+episode  404
+Step 187, Action: 3, Reward: -1, Done: True
+episode  405
+Step 45, Action: 10, Reward: 10.0, Done: True
+episode  406
+Step 85, Action: 7, Reward: 10.0, Done: True
+episode  407
+Step 102, Action: 3, Reward: -1, Done: True
+episode  408
+Step 42, Action: 9, Reward: -1, Done: True
+episode  409
+Step 324, Action: 3, Reward: -1, Done: True
+episode  410
+Step 326, Action: 6, Reward: 10.0, Done: True
+episode  411
+Step 182, Action: 14, Reward: 10.0, Done: True
+episode  412
+Step 239, Action: 12, Reward: 10.0, Done: True
+episode  413
+Step 58, Action: 12, Reward: 10.0, Done: True
+episode  414
+Step 198, Action: 6, Reward: 10.0, Done: True
+episode  415
+Step 116, Action: 2, Reward: 1, Done: True
+episode  416
+Step 41, Action: 0, Reward: -1, Done: True
+episode  417
+Step 259, Action: 3, Reward: -1, Done: True
+episode  418
+Step 10, Action: 1, Reward: -1, Done: True
+episode  419
+Step 181, Action: 7, Reward: 10.0, Done: True
+episode  420
+Step 88, Action: 13, Reward: 10.0, Done: True
+episode  421
+Step 8, Action: 11, Reward: -1, Done: True
+episode  422
+Step 284, Action: 7, Reward: -1, Done: True
+episode  423
+Step 32, Action: 5, Reward: -1, Done: True
+episode  424
+Step 172, Action: 6, Reward: -1, Done: True
+episode  425
+Step 499, Action: 14, Reward: -1, Done: True
+episode  426
+Step 148, Action: 3, Reward: -1, Done: True
+episode  427
+Step 110, Action: 3, Reward: -1, Done: True
+episode  428
+Step 68, Action: 3, Reward: -1, Done: True
+episode  429
+Step 151, Action: 2, Reward: 1, Done: True
+episode  430
+Step 92, Action: 3, Reward: -1, Done: True
+episode  431
+Step 123, Action: 0, Reward: -1, Done: True
+episode  432
+Step 44, Action: 3, Reward: -1, Done: True
+episode  433
+Step 29, Action: 4, Reward: 10.0, Done: True
+episode  434
+Step 128, Action: 13, Reward: -1, Done: True
+episode  435
+Step 85, Action: 13, Reward: -1, Done: True
+episode  436
+Step 183, Action: 8, Reward: 10.0, Done: True
+episode  437
+Step 75, Action: 13, Reward: -1, Done: True
+episode  438
+Step 44, Action: 11, Reward: -1, Done: True
+episode  439
+Step 166, Action: 3, Reward: -1, Done: True
+episode  440
+Step 34, Action: 10, Reward: -1, Done: True
+episode  441
+Step 91, Action: 5, Reward: 10.0, Done: True
+episode  442
+Step 140, Action: 7, Reward: -1, Done: True
+episode  443
+Step 53, Action: 0, Reward: -1, Done: True
+episode  444
+Step 316, Action: 12, Reward: -1, Done: True
+episode  445
+Step 123, Action: 3, Reward: -1, Done: True
+episode  446
+Step 28, Action: 12, Reward: -1, Done: True
+episode  447
+Step 70, Action: 8, Reward: 10.0, Done: True
+episode  448
+Step 35, Action: 0, Reward: -1, Done: True
+episode  449
+Step 68, Action: 3, Reward: -1, Done: True
+episode  450
+Step 98, Action: 3, Reward: -1, Done: True
+episode  451
+Step 15, Action: 4, Reward: -1, Done: True
+episode  452
+Step 499, Action: 10, Reward: -1, Done: True
+episode  453
+Step 1, Action: 7, Reward: -1, Done: True
+episode  454
+Step 125, Action: 4, Reward: -1, Done: True
+episode  455
+Step 66, Action: 0, Reward: -1, Done: True
+episode  456
+Step 70, Action: 2, Reward: 1, Done: True
+episode  457
+Step 51, Action: 0, Reward: -1, Done: True
+episode  458
+Step 45, Action: 7, Reward: -1, Done: True
+episode  459
+Step 245, Action: 13, Reward: -1, Done: True
+episode  460
+Step 81, Action: 3, Reward: -1, Done: True
+episode  461
+Step 49, Action: 10, Reward: 10.0, Done: True
+episode  462
+Step 338, Action: 12, Reward: 10.0, Done: True
+episode  463
+Step 89, Action: 0, Reward: -1, Done: True
+episode  464
+Step 76, Action: 13, Reward: -1, Done: True
+episode  465
+Step 60, Action: 6, Reward: 10.0, Done: True
+episode  466
+Step 107, Action: 6, Reward: -1, Done: True
+episode  467
+Step 35, Action: 9, Reward: 10.0, Done: True
+episode  468
+Step 68, Action: 9, Reward: 10.0, Done: True
+episode  469
+Step 285, Action: 9, Reward: 10.0, Done: True
+episode  470
+Step 232, Action: 12, Reward: 10.0, Done: True
+episode  471
+Step 44, Action: 11, Reward: 10.0, Done: True
+episode  472
+Step 230, Action: 2, Reward: 1, Done: True
+episode  473
+Step 1, Action: 7, Reward: -1, Done: True
+episode  474
+Step 1, Action: 12, Reward: -1, Done: True
+episode  475
+Step 46, Action: 2, Reward: 1, Done: True
+episode  476
+Step 95, Action: 6, Reward: 10.0, Done: True
+episode  477
+Step 49, Action: 1, Reward: 10.0, Done: True
+episode  478
+Step 17, Action: 5, Reward: -1, Done: True
+episode  479
+Step 31, Action: 2, Reward: 1, Done: True
+episode  480
+Step 129, Action: 5, Reward: 10.0, Done: True
+episode  481
+Step 40, Action: 7, Reward: -1, Done: True
+episode  482
+Step 26, Action: 12, Reward: 10.0, Done: True
+episode  483
+Step 333, Action: 8, Reward: -1, Done: True
+episode  484
+Step 88, Action: 11, Reward: -1, Done: True
+episode  485
+Step 339, Action: 12, Reward: -1, Done: True
+episode  486
+Step 224, Action: 7, Reward: 10.0, Done: True
+episode  487
+Step 8, Action: 7, Reward: -1, Done: True
+episode  488
+Step 165, Action: 7, Reward: 10.0, Done: True
+episode  489
+Step 23, Action: 5, Reward: -1, Done: True
+episode  490
+Step 201, Action: 0, Reward: -1, Done: True
+episode  491
+Step 105, Action: 4, Reward: 10.0, Done: True
+episode  492
+Step 108, Action: 10, Reward: -1, Done: True
+episode  493
+Step 12, Action: 8, Reward: -1, Done: True
+episode  494
+Step 38, Action: 6, Reward: -1, Done: True
+episode  495
+Step 132, Action: 2, Reward: 1, Done: True
+episode  496
+Step 184, Action: 11, Reward: 10.0, Done: True
+episode  497
+Step 2, Action: 13, Reward: -1, Done: True
+episode  498
+Step 88, Action: 10, Reward: 10.0, Done: True
+episode  499
+Step 22, Action: 2, Reward: 1, Done: True
+episode  500
+Step 105, Action: 11, Reward: -1, Done: True
+episode  501
+Step 71, Action: 9, Reward: -1, Done: True
+episode  502
+Step 94, Action: 0, Reward: 10.0, Done: True
+episode  503
+Step 121, Action: 7, Reward: 10.0, Done: True
+episode  504
+Step 327, Action: 1, Reward: -1, Done: True
+episode  505
+Step 52, Action: 10, Reward: 10.0, Done: True
+episode  506
+Step 63, Action: 10, Reward: 10.0, Done: True
+episode  507
+Step 339, Action: 7, Reward: 10.0, Done: True
+episode  508
+Step 3, Action: 4, Reward: -1, Done: True
+episode  509
+Step 83, Action: 5, Reward: -1, Done: True
+episode  510
+Step 300, Action: 0, Reward: -1, Done: True
+episode  511
+Step 9, Action: 12, Reward: -1, Done: True
+episode  512
+Step 229, Action: 3, Reward: -1, Done: True
+episode  513
+Step 75, Action: 4, Reward: -1, Done: True
+episode  514
+Step 20, Action: 8, Reward: -1, Done: True
+episode  515
+Step 158, Action: 5, Reward: -1, Done: True
+episode  516
+Step 33, Action: 11, Reward: -1, Done: True
+episode  517
+Step 100, Action: 2, Reward: 1, Done: True
+episode  518
+Step 72, Action: 1, Reward: 10.0, Done: True
+episode  519
+Step 103, Action: 9, Reward: -1, Done: True
+episode  520
+Step 340, Action: 11, Reward: -1, Done: True
+episode  521
+Step 87, Action: 12, Reward: -1, Done: True
+episode  522
+Step 26, Action: 1, Reward: -1, Done: True
+episode  523
+Step 47, Action: 5, Reward: -1, Done: True
+episode  524
+Step 45, Action: 2, Reward: 1, Done: True
+episode  525
+Step 68, Action: 8, Reward: -1, Done: True
+episode  526
+Step 18, Action: 3, Reward: -1, Done: True
+episode  527
+Step 38, Action: 8, Reward: -1, Done: True
+episode  528
+Step 103, Action: 1, Reward: 10.0, Done: True
+episode  529
+Step 114, Action: 14, Reward: -1, Done: True
+episode  530
+Step 77, Action: 5, Reward: -1, Done: True
+episode  531
+Step 154, Action: 9, Reward: -1, Done: True
+episode  532
+Step 303, Action: 7, Reward: -1, Done: True
+episode  533
+Step 86, Action: 6, Reward: 10.0, Done: True
+episode  534
+Step 58, Action: 0, Reward: 10.0, Done: True
+episode  535
+Step 80, Action: 2, Reward: 1, Done: True
+episode  536
+Step 76, Action: 10, Reward: -1, Done: True
+episode  537
+Step 143, Action: 0, Reward: 10.0, Done: True
+episode  538
+Step 53, Action: 7, Reward: -1, Done: True
+episode  539
+Step 4, Action: 13, Reward: -1, Done: True
+episode  540
+Step 31, Action: 5, Reward: -1, Done: True
+episode  541
+Step 47, Action: 2, Reward: 1, Done: True
+episode  542
+Step 60, Action: 14, Reward: -1, Done: True
+episode  543
+Step 100, Action: 13, Reward: -1, Done: True
+episode  544
+Step 102, Action: 9, Reward: 10.0, Done: True
+episode  545
+Step 35, Action: 3, Reward: -1, Done: True
+episode  546
+Step 58, Action: 8, Reward: -1, Done: True
+episode  547
+Step 18, Action: 8, Reward: -1, Done: True
+episode  548
+Step 142, Action: 6, Reward: 10.0, Done: True
+episode  549
+Step 149, Action: 3, Reward: 10.0, Done: True
+episode  550
+Step 2, Action: 8, Reward: -1, Done: True
+episode  551
+Step 31, Action: 0, Reward: -1, Done: True
+episode  552
+Step 103, Action: 9, Reward: -1, Done: True
+episode  553
+Step 12, Action: 6, Reward: -1, Done: True
+episode  554
+Step 204, Action: 6, Reward: 10.0, Done: True
+episode  555
+Step 83, Action: 13, Reward: -1, Done: True
+episode  556
+Step 27, Action: 2, Reward: 1, Done: True
+episode  557
+Step 74, Action: 9, Reward: -1, Done: True
+episode  558
+Step 52, Action: 10, Reward: -1, Done: True
+episode  559
+Step 37, Action: 8, Reward: -1, Done: True
+episode  560
+Step 13, Action: 5, Reward: -1, Done: True
+episode  561
+Step 56, Action: 7, Reward: -1, Done: True
+episode  562
+Step 113, Action: 3, Reward: -1, Done: True
+episode  563
+Step 60, Action: 0, Reward: -1, Done: True
+episode  564
+Step 109, Action: 0, Reward: -1, Done: True
+episode  565
+Step 2, Action: 14, Reward: -1, Done: True
+episode  566
+Step 46, Action: 2, Reward: 1, Done: True
+episode  567
+Step 68, Action: 5, Reward: -1, Done: True
+episode  568
+Step 61, Action: 5, Reward: -1, Done: True
+episode  569
+Step 118, Action: 3, Reward: -1, Done: True
+episode  570
+Step 112, Action: 0, Reward: -1, Done: True
+episode  571
+Step 118, Action: 5, Reward: -1, Done: True
+episode  572
+Step 47, Action: 11, Reward: 10.0, Done: True
+episode  573
+Step 66, Action: 2, Reward: 1, Done: True
+episode  574
+Step 248, Action: 3, Reward: 10.0, Done: True
+episode  575
+Step 7, Action: 13, Reward: -1, Done: True
+episode  576
+Step 58, Action: 10, Reward: -1, Done: True
+episode  577
+Step 349, Action: 9, Reward: 10.0, Done: True
+episode  578
+Step 187, Action: 5, Reward: 10.0, Done: True
+episode  579
+Step 78, Action: 4, Reward: 10.0, Done: True
+episode  580
+Step 86, Action: 9, Reward: 10.0, Done: True
+episode  581
+Step 48, Action: 11, Reward: 10.0, Done: True
+episode  582
+Step 74, Action: 12, Reward: -1, Done: True
+episode  583
+Step 8, Action: 1, Reward: -1, Done: True
+episode  584
+Step 117, Action: 14, Reward: 10.0, Done: True
+episode  585
+Step 63, Action: 5, Reward: -1, Done: True
+episode  586
+Step 122, Action: 14, Reward: -1, Done: True
+episode  587
+Step 86, Action: 1, Reward: -1, Done: True
+episode  588
+Step 46, Action: 3, Reward: -1, Done: True
+episode  589
+Step 71, Action: 2, Reward: 1, Done: True
+episode  590
+Step 7, Action: 10, Reward: -1, Done: True
+episode  591
+Step 8, Action: 5, Reward: -1, Done: True
+episode  592
+Step 82, Action: 6, Reward: 10.0, Done: True
+episode  593
+Step 124, Action: 2, Reward: 1, Done: True
+episode  594
+Step 145, Action: 0, Reward: -1, Done: True
+episode  595
+Step 150, Action: 11, Reward: -1, Done: True
+episode  596
+Step 16, Action: 11, Reward: -1, Done: True
+episode  597
+Step 212, Action: 1, Reward: 10.0, Done: True
+episode  598
+Step 25, Action: 5, Reward: -1, Done: True
+episode  599
+Step 235, Action: 13, Reward: -1, Done: True
+episode  600
+Step 93, Action: 4, Reward: -1, Done: True
+episode  601
+Step 46, Action: 1, Reward: -1, Done: True
+episode  602
+Step 185, Action: 6, Reward: -1, Done: True
+episode  603
+Step 26, Action: 0, Reward: -1, Done: True
+episode  604
+Step 22, Action: 11, Reward: 10.0, Done: True
+episode  605
+Step 59, Action: 13, Reward: -1, Done: True
+episode  606
+Step 1, Action: 11, Reward: -1, Done: True
+episode  607
+Step 144, Action: 3, Reward: -1, Done: True
+episode  608
+Step 211, Action: 7, Reward: 10.0, Done: True
+episode  609
+Step 152, Action: 7, Reward: 10.0, Done: True
+episode  610
+Step 22, Action: 4, Reward: -1, Done: True
+episode  611
+Step 307, Action: 9, Reward: -1, Done: True
+episode  612
+Step 160, Action: 13, Reward: -1, Done: True
+episode  613
+Step 252, Action: 11, Reward: 10.0, Done: True
+episode  614
+Step 18, Action: 12, Reward: -1, Done: True
+episode  615
+Step 23, Action: 1, Reward: 10.0, Done: True
+episode  616
+Step 116, Action: 14, Reward: -1, Done: True
+episode  617
+Step 69, Action: 14, Reward: 10.0, Done: True
+episode  618
+Step 232, Action: 3, Reward: -1, Done: True
+episode  619
+Step 126, Action: 11, Reward: 10.0, Done: True
+episode  620
+Step 103, Action: 13, Reward: 10.0, Done: True
+episode  621
+Step 232, Action: 3, Reward: -1, Done: True
+episode  622
+Step 32, Action: 13, Reward: 10.0, Done: True
+episode  623
+Step 57, Action: 7, Reward: -1, Done: True
+episode  624
+Step 63, Action: 7, Reward: -1, Done: True
+episode  625
+Step 219, Action: 0, Reward: -1, Done: True
+episode  626
+Step 93, Action: 10, Reward: -1, Done: True
+episode  627
+Step 230, Action: 1, Reward: -1, Done: True
+episode  628
+Step 499, Action: 11, Reward: -1, Done: True
+episode  629
+Step 96, Action: 2, Reward: 1, Done: True
+episode  630
+Step 104, Action: 0, Reward: -1, Done: True
+episode  631
+Step 120, Action: 11, Reward: -1, Done: True
+episode  632
+Step 103, Action: 13, Reward: -1, Done: True
+episode  633
+Step 287, Action: 14, Reward: -1, Done: True
+episode  634
+Step 235, Action: 6, Reward: -1, Done: True
+episode  635
+Step 85, Action: 14, Reward: 10.0, Done: True
+episode  636
+Step 169, Action: 13, Reward: -1, Done: True
+episode  637
+Step 64, Action: 1, Reward: -1, Done: True
+episode  638
+Step 111, Action: 11, Reward: 10.0, Done: True
+episode  639
+Step 109, Action: 12, Reward: 10.0, Done: True
+episode  640
+Step 46, Action: 8, Reward: -1, Done: True
+episode  641
+Step 47, Action: 14, Reward: 10.0, Done: True
+episode  642
+Step 30, Action: 14, Reward: -1, Done: True
+episode  643
+Step 85, Action: 2, Reward: 1, Done: True
+episode  644
+Step 82, Action: 2, Reward: 1, Done: True
+episode  645
+Step 57, Action: 9, Reward: -1, Done: True
+episode  646
+Step 7, Action: 6, Reward: -1, Done: True
+episode  647
+Step 26, Action: 5, Reward: -1, Done: True
+episode  648
+Step 186, Action: 4, Reward: -1, Done: True
+episode  649
+Step 13, Action: 6, Reward: -1, Done: True
+episode  650
+Step 36, Action: 14, Reward: 10.0, Done: True
+episode  651
+Step 61, Action: 0, Reward: 10.0, Done: True
+episode  652
+Step 115, Action: 3, Reward: -1, Done: True
+episode  653
+Step 61, Action: 2, Reward: 1, Done: True
+episode  654
+Step 14, Action: 0, Reward: -1, Done: True
+episode  655
+Step 363, Action: 9, Reward: -1, Done: True
+episode  656
+Step 26, Action: 4, Reward: -1, Done: True
+episode  657
+Step 141, Action: 10, Reward: -1, Done: True
+episode  658
+Step 125, Action: 2, Reward: 1, Done: True
+episode  659
+Step 194, Action: 7, Reward: 10.0, Done: True
+episode  660
+Step 37, Action: 4, Reward: -1, Done: True
+episode  661
+Step 380, Action: 8, Reward: 10.0, Done: True
+episode  662
+Step 162, Action: 2, Reward: 1, Done: True
+episode  663
+Step 23, Action: 14, Reward: 10.0, Done: True
+episode  664
+Step 215, Action: 11, Reward: 10.0, Done: True
+episode  665
+Step 50, Action: 6, Reward: 10.0, Done: True
+episode  666
+Step 71, Action: 5, Reward: 10.0, Done: True
+episode  667
+Step 8, Action: 7, Reward: -1, Done: True
+episode  668
+Step 54, Action: 6, Reward: -1, Done: True
+episode  669
+Step 40, Action: 6, Reward: -1, Done: True
+episode  670
+Step 169, Action: 11, Reward: -1, Done: True
+episode  671
+Step 19, Action: 2, Reward: 1, Done: True
+episode  672
+Step 79, Action: 8, Reward: -1, Done: True
+episode  673
+Step 24, Action: 5, Reward: -1, Done: True
+episode  674
+Step 28, Action: 14, Reward: 10.0, Done: True
+episode  675
+Step 10, Action: 13, Reward: -1, Done: True
+episode  676
+Step 113, Action: 10, Reward: 10.0, Done: True
+episode  677
+Step 194, Action: 13, Reward: -1, Done: True
+episode  678
+Step 41, Action: 13, Reward: -1, Done: True
+episode  679
+Step 38, Action: 13, Reward: 10.0, Done: True
+episode  680
+Step 383, Action: 13, Reward: -1, Done: True
+episode  681
+Step 145, Action: 2, Reward: 1, Done: True
+episode  682
+Step 117, Action: 4, Reward: -1, Done: True
+episode  683
+Step 184, Action: 11, Reward: -1, Done: True
+episode  684
+Step 12, Action: 6, Reward: 10.0, Done: True
+episode  685
+Step 32, Action: 1, Reward: -1, Done: True
+episode  686
+Step 41, Action: 9, Reward: -1, Done: True
+episode  687
+Step 136, Action: 11, Reward: 10.0, Done: True
+episode  688
+Step 38, Action: 7, Reward: 10.0, Done: True
+episode  689
+Step 101, Action: 6, Reward: -1, Done: True
+episode  690
+Step 166, Action: 2, Reward: 1, Done: True
+episode  691
+Step 7, Action: 6, Reward: -1, Done: True
+episode  692
+Step 18, Action: 4, Reward: -1, Done: True
+episode  693
+Step 456, Action: 3, Reward: -1, Done: True
+episode  694
+Step 180, Action: 11, Reward: -1, Done: True
+episode  695
+Step 87, Action: 3, Reward: -1, Done: True
+episode  696
+Step 127, Action: 14, Reward: 10.0, Done: True
+episode  697
+Step 105, Action: 7, Reward: -1, Done: True
+episode  698
+Step 79, Action: 0, Reward: 10.0, Done: True
+episode  699
+Step 121, Action: 1, Reward: -1, Done: True
+episode  700
+Step 120, Action: 8, Reward: 10.0, Done: True
+episode  701
+Step 11, Action: 4, Reward: -1, Done: True
+episode  702
+Step 272, Action: 2, Reward: 1, Done: True
+episode  703
+Step 1, Action: 6, Reward: -1, Done: True
+episode  704
+Step 47, Action: 14, Reward: -1, Done: True
+episode  705
+Step 44, Action: 8, Reward: -1, Done: True
+episode  706
+Step 105, Action: 9, Reward: -1, Done: True
+episode  707
+Step 79, Action: 9, Reward: 10.0, Done: True
+episode  708
+Step 307, Action: 5, Reward: -1, Done: True
+episode  709
+Step 104, Action: 8, Reward: -1, Done: True
+episode  710
+Step 195, Action: 12, Reward: 10.0, Done: True
+episode  711
+Step 333, Action: 5, Reward: 10.0, Done: True
+episode  712
+Step 146, Action: 4, Reward: -1, Done: True
+episode  713
+Step 21, Action: 13, Reward: 10.0, Done: True
+episode  714
+Step 125, Action: 2, Reward: 1, Done: True
+episode  715
+Step 71, Action: 9, Reward: 10.0, Done: True
+episode  716
+Step 23, Action: 1, Reward: -1, Done: True
+episode  717
+Step 20, Action: 12, Reward: -1, Done: True
+episode  718
+Step 133, Action: 5, Reward: -1, Done: True
+episode  719
+Step 126, Action: 4, Reward: -1, Done: True
+episode  720
+Step 222, Action: 4, Reward: 10.0, Done: True
+episode  721
+Step 75, Action: 2, Reward: 1, Done: True
+episode  722
+Step 91, Action: 9, Reward: -1, Done: True
+episode  723
+Step 54, Action: 1, Reward: -1, Done: True
+episode  724
+Step 55, Action: 4, Reward: 10.0, Done: True
+episode  725
+Step 115, Action: 8, Reward: 10.0, Done: True
+episode  726
+Step 74, Action: 1, Reward: -1, Done: True
+episode  727
+Step 156, Action: 14, Reward: -1, Done: True
+episode  728
+Step 61, Action: 2, Reward: 1, Done: True
+episode  729
+Step 115, Action: 0, Reward: -1, Done: True
+episode  730
+Step 499, Action: 2, Reward: 1, Done: True
+episode  731
+Step 97, Action: 6, Reward: -1, Done: True
+episode  732
+Step 35, Action: 9, Reward: 10.0, Done: True
+episode  733
+Step 92, Action: 0, Reward: -1, Done: True
+episode  734
+Step 61, Action: 8, Reward: -1, Done: True
+episode  735
+Step 11, Action: 7, Reward: -1, Done: True
+episode  736
+Step 58, Action: 2, Reward: 1, Done: True
+episode  737
+Step 219, Action: 0, Reward: -1, Done: True
+episode  738
+Step 31, Action: 2, Reward: 1, Done: True
+episode  739
+Step 42, Action: 2, Reward: 1, Done: True
+episode  740
+Step 2, Action: 11, Reward: -1, Done: True
+episode  741
+Step 9, Action: 13, Reward: -1, Done: True
+episode  742
+Step 110, Action: 7, Reward: 10.0, Done: True
+episode  743
+Step 173, Action: 14, Reward: -1, Done: True
+episode  744
+Step 101, Action: 5, Reward: -1, Done: True
+episode  745
+Step 25, Action: 1, Reward: -1, Done: True
+episode  746
+Step 155, Action: 11, Reward: 10.0, Done: True
+episode  747
+Step 127, Action: 5, Reward: -1, Done: True
+episode  748
+Step 130, Action: 0, Reward: -1, Done: True
+episode  749
+Step 162, Action: 4, Reward: -1, Done: True
+episode  750
+Step 18, Action: 5, Reward: -1, Done: True
+episode  751
+Step 46, Action: 6, Reward: -1, Done: True
+episode  752
+Step 14, Action: 4, Reward: -1, Done: True
+episode  753
+Step 258, Action: 3, Reward: 10.0, Done: True
+episode  754
+Step 416, Action: 11, Reward: -1, Done: True
+episode  755
+Step 441, Action: 9, Reward: 10.0, Done: True
+episode  756
+Step 9, Action: 9, Reward: -1, Done: True
+episode  757
+Step 44, Action: 12, Reward: -1, Done: True
+episode  758
+Step 152, Action: 4, Reward: -1, Done: True
+episode  759
+Step 7, Action: 9, Reward: -1, Done: True
+episode  760
+Step 114, Action: 3, Reward: -1, Done: True
+episode  761
+Step 64, Action: 3, Reward: -1, Done: True
+episode  762
+Step 252, Action: 10, Reward: -1, Done: True
+episode  763
+Step 32, Action: 14, Reward: -1, Done: True
+episode  764
+Step 92, Action: 10, Reward: -1, Done: True
+episode  765
+Step 69, Action: 10, Reward: -1, Done: True
+episode  766
+Step 158, Action: 0, Reward: -1, Done: True
+episode  767
+Step 164, Action: 7, Reward: -1, Done: True
+episode  768
+Step 164, Action: 1, Reward: -1, Done: True
+episode  769
+Step 87, Action: 2, Reward: 1, Done: True
+episode  770
+Step 20, Action: 7, Reward: -1, Done: True
+episode  771
+Step 89, Action: 11, Reward: 10.0, Done: True
+episode  772
+Step 33, Action: 7, Reward: 10.0, Done: True
+episode  773
+Step 98, Action: 12, Reward: -1, Done: True
+episode  774
+Step 7, Action: 0, Reward: -1, Done: True
+episode  775
+Step 143, Action: 12, Reward: 10.0, Done: True
+episode  776
+Step 162, Action: 0, Reward: -1, Done: True
+episode  777
+Step 229, Action: 1, Reward: -1, Done: True
+episode  778
+Step 67, Action: 7, Reward: 10.0, Done: True
+episode  779
+Step 20, Action: 0, Reward: 10.0, Done: True
+episode  780
+Step 139, Action: 3, Reward: 10.0, Done: True
+episode  781
+Step 82, Action: 8, Reward: -1, Done: True
+episode  782
+Step 100, Action: 3, Reward: -1, Done: True
+episode  783
+Step 84, Action: 0, Reward: -1, Done: True
+episode  784
+Step 128, Action: 2, Reward: 1, Done: True
+episode  785
+Step 220, Action: 10, Reward: -1, Done: True
+episode  786
+Step 264, Action: 5, Reward: -1, Done: True
+episode  787
+Step 27, Action: 6, Reward: -1, Done: True
+episode  788
+Step 40, Action: 11, Reward: -1, Done: True
+episode  789
+Step 66, Action: 13, Reward: -1, Done: True
+episode  790
+Step 91, Action: 9, Reward: -1, Done: True
+episode  791
+Step 91, Action: 4, Reward: -1, Done: True
+episode  792
+Step 180, Action: 2, Reward: 1, Done: True
+episode  793
+Step 172, Action: 8, Reward: -1, Done: True
+episode  794
+Step 127, Action: 2, Reward: 1, Done: True
+episode  795
+Step 238, Action: 0, Reward: -1, Done: True
+episode  796
+Step 234, Action: 0, Reward: -1, Done: True
+episode  797
+Step 78, Action: 12, Reward: -1, Done: True
+episode  798
+Step 57, Action: 0, Reward: -1, Done: True
+episode  799
+Step 55, Action: 1, Reward: 10.0, Done: True
+episode  800
+Step 98, Action: 0, Reward: -1, Done: True
+episode  801
+Step 166, Action: 13, Reward: -1, Done: True
+episode  802
+Step 77, Action: 13, Reward: -1, Done: True
+episode  803
+Step 177, Action: 13, Reward: 10.0, Done: True
+episode  804
+Step 45, Action: 12, Reward: -1, Done: True
+episode  805
+Step 110, Action: 1, Reward: -1, Done: True
+episode  806
+Step 499, Action: 12, Reward: -1, Done: True
+episode  807
+Step 88, Action: 13, Reward: -1, Done: True
+episode  808
+Step 22, Action: 13, Reward: -1, Done: True
+episode  809
+Step 47, Action: 5, Reward: -1, Done: True
+episode  810
+Step 171, Action: 3, Reward: -1, Done: True
+episode  811
+Step 178, Action: 10, Reward: -1, Done: True
+episode  812
+Step 298, Action: 7, Reward: 10.0, Done: True
+episode  813
+Step 64, Action: 3, Reward: -1, Done: True
+episode  814
+Step 62, Action: 4, Reward: -1, Done: True
+episode  815
+Step 334, Action: 0, Reward: 10.0, Done: True
+episode  816
+Step 75, Action: 4, Reward: 10.0, Done: True
+episode  817
+Step 82, Action: 9, Reward: 10.0, Done: True
+episode  818
+Step 17, Action: 10, Reward: -1, Done: True
+episode  819
+Step 11, Action: 7, Reward: -1, Done: True
+episode  820
+Step 118, Action: 8, Reward: 10.0, Done: True
+episode  821
+Step 103, Action: 2, Reward: 1, Done: True
+episode  822
+Step 162, Action: 14, Reward: -1, Done: True
+episode  823
+Step 29, Action: 10, Reward: -1, Done: True
+episode  824
+Step 331, Action: 0, Reward: 10.0, Done: True
+episode  825
+Step 61, Action: 1, Reward: 10.0, Done: True
+episode  826
+Step 95, Action: 5, Reward: -1, Done: True
+episode  827
+Step 153, Action: 1, Reward: -1, Done: True
+episode  828
+Step 181, Action: 8, Reward: 10.0, Done: True
+episode  829
+Step 191, Action: 12, Reward: -1, Done: True
+episode  830
+Step 47, Action: 7, Reward: -1, Done: True
+episode  831
+Step 316, Action: 5, Reward: 10.0, Done: True
+episode  832
+Step 40, Action: 1, Reward: 10.0, Done: True
+episode  833
+Step 34, Action: 0, Reward: -1, Done: True
+episode  834
+Step 19, Action: 5, Reward: -1, Done: True
+episode  835
+Step 43, Action: 4, Reward: -1, Done: True
+episode  836
+Step 20, Action: 6, Reward: -1, Done: True
+episode  837
+Step 43, Action: 1, Reward: -1, Done: True
+episode  838
+Step 106, Action: 5, Reward: 10.0, Done: True
+episode  839
+Step 10, Action: 12, Reward: -1, Done: True
+episode  840
+Step 133, Action: 1, Reward: -1, Done: True
+episode  841
+Step 104, Action: 11, Reward: -1, Done: True
+episode  842
+Step 31, Action: 7, Reward: -1, Done: True
+episode  843
+Step 193, Action: 0, Reward: -1, Done: True
+episode  844
+Step 1, Action: 4, Reward: -1, Done: True
+episode  845
+Step 93, Action: 11, Reward: -1, Done: True
+episode  846
+Step 144, Action: 2, Reward: 1, Done: True
+episode  847
+Step 88, Action: 0, Reward: -1, Done: True
+episode  848
+Step 256, Action: 7, Reward: 10.0, Done: True
+episode  849
+Step 157, Action: 6, Reward: 10.0, Done: True
+episode  850
+Step 42, Action: 9, Reward: 10.0, Done: True
+episode  851
+Step 403, Action: 5, Reward: -1, Done: True
+episode  852
+Step 78, Action: 1, Reward: 10.0, Done: True
+episode  853
+Step 35, Action: 5, Reward: 10.0, Done: True
+episode  854
+Step 12, Action: 9, Reward: -1, Done: True
+episode  855
+Step 60, Action: 0, Reward: -1, Done: True
+episode  856
+Step 118, Action: 13, Reward: 10.0, Done: True
+episode  857
+Step 247, Action: 4, Reward: -1, Done: True
+episode  858
+Step 140, Action: 3, Reward: -1, Done: True
+episode  859
+Step 70, Action: 4, Reward: 10.0, Done: True
+episode  860
+Step 97, Action: 14, Reward: -1, Done: True
+episode  861
+Step 168, Action: 11, Reward: -1, Done: True
+episode  862
+Step 318, Action: 2, Reward: 1, Done: True
+episode  863
+Step 45, Action: 3, Reward: -1, Done: True
+episode  864
+Step 55, Action: 7, Reward: 10.0, Done: True
+episode  865
+Step 75, Action: 9, Reward: -1, Done: True
+episode  866
+Step 244, Action: 10, Reward: -1, Done: True
+episode  867
+Step 112, Action: 6, Reward: -1, Done: True
+episode  868
+Step 46, Action: 0, Reward: -1, Done: True
+episode  869
+Step 203, Action: 4, Reward: -1, Done: True
+episode  870
+Step 21, Action: 10, Reward: -1, Done: True
+episode  871
+Step 144, Action: 7, Reward: -1, Done: True
+episode  872
+Step 135, Action: 13, Reward: -1, Done: True
+episode  873
+Step 50, Action: 12, Reward: 10.0, Done: True
+episode  874
+Step 8, Action: 10, Reward: -1, Done: True
+episode  875
+Step 22, Action: 6, Reward: 10.0, Done: True
+episode  876
+Step 1, Action: 4, Reward: -1, Done: True
+episode  877
+Step 168, Action: 7, Reward: -1, Done: True
+episode  878
+Step 282, Action: 8, Reward: 10.0, Done: True
+episode  879
+Step 315, Action: 8, Reward: 10.0, Done: True
+episode  880
+Step 64, Action: 3, Reward: -1, Done: True
+episode  881
+Step 76, Action: 5, Reward: -1, Done: True
+episode  882
+Step 108, Action: 3, Reward: -1, Done: True
+episode  883
+Step 70, Action: 14, Reward: -1, Done: True
+episode  884
+Step 1, Action: 14, Reward: -1, Done: True
+episode  885
+Step 101, Action: 3, Reward: -1, Done: True
+episode  886
+Step 327, Action: 14, Reward: -1, Done: True
+episode  887
+Step 17, Action: 1, Reward: -1, Done: True
+episode  888
+Step 17, Action: 4, Reward: -1, Done: True
+episode  889
+Step 331, Action: 3, Reward: 10.0, Done: True
+episode  890
+Step 123, Action: 9, Reward: -1, Done: True
+episode  891
+Step 26, Action: 7, Reward: 10.0, Done: True
+episode  892
+Step 137, Action: 14, Reward: 10.0, Done: True
+episode  893
+Step 88, Action: 5, Reward: 10.0, Done: True
+episode  894
+Step 139, Action: 12, Reward: -1, Done: True
+episode  895
+Step 48, Action: 4, Reward: -1, Done: True
+episode  896
+Step 74, Action: 12, Reward: 10.0, Done: True
+episode  897
+Step 237, Action: 5, Reward: -1, Done: True
+episode  898
+Step 14, Action: 4, Reward: -1, Done: True
+episode  899
+Step 20, Action: 14, Reward: 10.0, Done: True
+episode  900
+Step 78, Action: 8, Reward: -1, Done: True
+episode  901
+Step 29, Action: 6, Reward: -1, Done: True
+episode  902
+Step 105, Action: 14, Reward: -1, Done: True
+episode  903
+Step 154, Action: 14, Reward: -1, Done: True
+episode  904
+Step 214, Action: 0, Reward: -1, Done: True
+episode  905
+Step 139, Action: 5, Reward: -1, Done: True
+episode  906
+Step 108, Action: 5, Reward: -1, Done: True
+episode  907
+Step 163, Action: 1, Reward: -1, Done: True
+episode  908
+Step 222, Action: 1, Reward: -1, Done: True
+episode  909
+Step 152, Action: 9, Reward: -1, Done: True
+episode  910
+Step 19, Action: 6, Reward: -1, Done: True
+episode  911
+Step 74, Action: 1, Reward: 10.0, Done: True
+episode  912
+Step 67, Action: 7, Reward: -1, Done: True
+episode  913
+Step 91, Action: 8, Reward: 10.0, Done: True
+episode  914
+Step 272, Action: 1, Reward: 10.0, Done: True
+episode  915
+Step 144, Action: 10, Reward: -1, Done: True
+episode  916
+Step 4, Action: 4, Reward: -1, Done: True
+episode  917
+Step 72, Action: 5, Reward: 10.0, Done: True
+episode  918
+Step 46, Action: 7, Reward: -1, Done: True
+episode  919
+Step 160, Action: 5, Reward: -1, Done: True
+episode  920
+Step 34, Action: 5, Reward: -1, Done: True
+episode  921
+Step 105, Action: 10, Reward: -1, Done: True
+episode  922
+Step 22, Action: 1, Reward: -1, Done: True
+episode  923
+Step 149, Action: 8, Reward: 10.0, Done: True
+episode  924
+Step 179, Action: 1, Reward: -1, Done: True
+episode  925
+Step 54, Action: 12, Reward: -1, Done: True
+episode  926
+Step 72, Action: 13, Reward: -1, Done: True
+episode  927
+Step 44, Action: 1, Reward: 10.0, Done: True
+episode  928
+Step 245, Action: 10, Reward: 10.0, Done: True
+episode  929
+Step 83, Action: 14, Reward: -1, Done: True
+episode  930
+Step 91, Action: 6, Reward: -1, Done: True
+episode  931
+Step 7, Action: 0, Reward: -1, Done: True
+episode  932
+Step 17, Action: 6, Reward: -1, Done: True
+episode  933
+Step 123, Action: 0, Reward: -1, Done: True
+episode  934
+Step 499, Action: 8, Reward: -1, Done: True
+episode  935
+Step 282, Action: 11, Reward: 10.0, Done: True
+episode  936
+Step 136, Action: 7, Reward: 10.0, Done: True
+episode  937
+Step 111, Action: 11, Reward: -1, Done: True
+episode  938
+Step 80, Action: 8, Reward: -1, Done: True
+episode  939
+Step 93, Action: 4, Reward: 10.0, Done: True
+episode  940
+Step 1, Action: 14, Reward: -1, Done: True
+episode  941
+Step 64, Action: 2, Reward: 1, Done: True
+episode  942
+Step 147, Action: 3, Reward: -1, Done: True
+episode  943
+Step 42, Action: 2, Reward: 1, Done: True
+episode  944
+Step 13, Action: 4, Reward: -1, Done: True
+episode  945
+Step 273, Action: 11, Reward: -1, Done: True
+episode  946
+Step 118, Action: 13, Reward: -1, Done: True
+episode  947
+Step 160, Action: 4, Reward: 10.0, Done: True
+episode  948
+Step 366, Action: 9, Reward: -1, Done: True
+episode  949
+Step 127, Action: 3, Reward: -1, Done: True
+episode  950
+Step 63, Action: 0, Reward: -1, Done: True
+episode  951
+Step 111, Action: 13, Reward: 10.0, Done: True
+episode  952
+Step 155, Action: 8, Reward: -1, Done: True
+episode  953
+Step 42, Action: 11, Reward: -1, Done: True
+episode  954
+Step 133, Action: 7, Reward: 10.0, Done: True
+episode  955
+Step 176, Action: 9, Reward: -1, Done: True
+episode  956
+Step 35, Action: 8, Reward: -1, Done: True
+episode  957
+Step 12, Action: 6, Reward: 10.0, Done: True
+episode  958
+Step 10, Action: 6, Reward: -1, Done: True
+episode  959
+Step 47, Action: 7, Reward: 10.0, Done: True
+episode  960
+Step 149, Action: 9, Reward: -1, Done: True
+episode  961
+Step 27, Action: 12, Reward: -1, Done: True
+episode  962
+Step 49, Action: 10, Reward: -1, Done: True
+episode  963
+Step 40, Action: 1, Reward: -1, Done: True
+episode  964
+Step 32, Action: 10, Reward: -1, Done: True
+episode  965
+Step 77, Action: 8, Reward: -1, Done: True
+episode  966
+Step 152, Action: 6, Reward: 10.0, Done: True
+episode  967
+Step 281, Action: 14, Reward: -1, Done: True
+episode  968
+Step 53, Action: 11, Reward: -1, Done: True
+episode  969
+Step 83, Action: 8, Reward: -1, Done: True
+episode  970
+Step 243, Action: 14, Reward: -1, Done: True
+episode  971
+Step 52, Action: 1, Reward: -1, Done: True
+episode  972
+Step 26, Action: 11, Reward: -1, Done: True
+episode  973
+Step 87, Action: 10, Reward: -1, Done: True
+episode  974
+Step 390, Action: 13, Reward: -1, Done: True
+episode  975
+Step 21, Action: 12, Reward: -1, Done: True
+episode  976
+Step 15, Action: 6, Reward: -1, Done: True
+episode  977
+Step 66, Action: 13, Reward: 10.0, Done: True
+episode  978
+Step 26, Action: 12, Reward: 10.0, Done: True
+episode  979
+Step 212, Action: 12, Reward: -1, Done: True
+episode  980
+Step 26, Action: 10, Reward: 10.0, Done: True
+episode  981
+Step 194, Action: 4, Reward: 10.0, Done: True
+episode  982
+Step 114, Action: 1, Reward: 10.0, Done: True
+episode  983
+Step 196, Action: 9, Reward: -1, Done: True
+episode  984
+Step 99, Action: 14, Reward: -1, Done: True
+episode  985
+Step 47, Action: 13, Reward: 10.0, Done: True
+episode  986
+Step 85, Action: 0, Reward: -1, Done: True
+episode  987
+Step 165, Action: 10, Reward: -1, Done: True
+episode  988
+Step 436, Action: 7, Reward: 10.0, Done: True
+episode  989
+Step 114, Action: 1, Reward: -1, Done: True
+episode  990
+Step 132, Action: 7, Reward: 10.0, Done: True
+episode  991
+Step 138, Action: 0, Reward: -1, Done: True
+episode  992
+Step 48, Action: 0, Reward: -1, Done: True
+episode  993
+Step 423, Action: 1, Reward: 10.0, Done: True
+episode  994
+Step 68, Action: 9, Reward: 10.0, Done: True
+episode  995
+Step 55, Action: 0, Reward: 10.0, Done: True
+episode  996
+Step 499, Action: 1, Reward: -1, Done: True
+episode  997
+Step 79, Action: 13, Reward: 10.0, Done: True
+episode  998
+Step 358, Action: 5, Reward: 10.0, Done: True
+episode  999
+Step 157, Action: 3, Reward: -1, Done: True
