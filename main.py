@@ -178,9 +178,9 @@ def performance_comparison():
           calculate_average_steps(qlearning_episodes_leaper, qlearning_steps_leaper, 2000))
 
 if __name__ == "__main__":
-    performance_comparison()
     # game = input("Insert the game name you want to train (maze, leaper): ")
     # if game == "maze":
     #    maze_game()
     # else:
     #    leaper_game()
+    performance_comparison()
